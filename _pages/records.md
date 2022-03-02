@@ -1,13 +1,7 @@
 ---
 title: "Records"
 layout: splash
-permalink: /records
-header:
-  overlay_color: "#5e616c"
-  overlay_image:
-  caption:
-
-
+permalink: /records/
 ---
 
 ## Student Records
@@ -28,4 +22,4 @@ This section is for records made by alumni who were CUPLC members while they wer
 
 [Contact Webmaster](mailto:webmaster@soc-cuplc.srcf.net){: .btn .btn--primary .align-center}
 
-[Detailed Record Rules](/2022-02-28-club-record-rules/){: .btn .btn--primary .align-center}
+[Detailed Record Rules](/_posts/2022-02-28-club-record-rules/){: .btn .btn--primary .align-center}

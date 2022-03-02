@@ -1,5 +1,6 @@
 ---
 title: "Rules for Club Records"
+permalink: \record-rules\
 date: 2020-02-08
 categories:
   - Policy Documents

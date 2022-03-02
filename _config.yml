@@ -293,15 +293,24 @@ defaults:
       type: posts
     values:
       layout: single
+      classes: wide
       author_profile: true
       read_time: false
       comments: false
       share: true
       related: true
+      show_date: true
+      header:
+        show_overlay_excerpt: false
+        overlay_filter: "0.5"
   # _pages
   - scope:
       path: ""
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: false
+      header:
+        overlay_color: "#85B09A"
+        overlay_filter: 0.5
+        show_overlay_excerpt: false

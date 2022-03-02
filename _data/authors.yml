@@ -15,12 +15,12 @@ Bilal Chughtai:
 
 Remi Rufus Toye:
   name        : "Remi Rufus Toye"
-  bio         : "CUPLC President 2020-2021"
-  avatar      : # "/assets/images/bio-photo.jpg"
+  bio         : "President 2020-2021 <br/> Men's Captain 2019-2020"
+  avatar      : "/assets/images/headshots/remi.png"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:cornelius@thewhip.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/rhymeswithsackit"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram-square"
+      url: "https://www.instagram.com/strength_and_fragility"
