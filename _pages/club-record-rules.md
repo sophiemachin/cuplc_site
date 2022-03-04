@@ -2,16 +2,8 @@
 title: "Rules for Club Records"
 permalink: \record-rules\
 date: 2020-02-08
-categories:
+tags:
   - Policy Documents
-classes: wide
-author: Bilal Chughtai
-layout: single
-author_profile: true
-read_time: false
-comments: false
-share: false
-related: false
 show_date: true
 ---
 ## I Organisation of Records

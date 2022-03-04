@@ -2,11 +2,13 @@
 main:
   - title: "The Club"
     url: /the-club/
-  - title: "Meets"
-    url: /meets/
-  - title: "Records"
-    url: /records/
   - title: "Blog"
     url: /blog/
+  - title: "Committee"
+    url: /committee/
+  - title: "Competitions"
+    url: /competitions/
+  - title: "Records"
+    url: /records/
   - title: "Members"
     url: /members/

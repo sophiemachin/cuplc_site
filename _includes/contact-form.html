@@ -1,0 +1,49 @@
+<!--two column layour from https://www.w3schools.com/howto/howto_css_two_columns.asp-->
+<!-- TODO move into proper css classes -->
+
+<style>
+* {
+  box-sizing: border-box;
+}
+
+/* Create two equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
+
+<div class="row">
+  <form action="https://formspree.io/f/mqknblgj" method="POST">
+    <div class="column">
+      <label>
+        Your name:
+        <input type="text" name="name">
+      </label>
+      <label>
+        Your email:
+        <input type="email" name="email">
+      </label>
+      <label>
+        Your message:
+        <textarea name="message"></textarea>
+      </label>
+    </div>
+
+    <div class="column">
+      <large><b> Get in touch </b></large>
+      <br>
+      <p> If you have any questions beyond the content of the website, please don't hesitate to get in touch with our webmaster via the contact form. Please have a look at our FAQs first...  </p>
+
+      <button class = "btn btn--primary btn--large" type="submit">Send</button>
+    </div>
+  </form>
+</div>

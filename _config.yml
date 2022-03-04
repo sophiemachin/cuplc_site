@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "cam-blue" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "Cambridge University Powerlifting Club"
+title                    : "CU Powerlifting Club"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Bilal Chughtai"
@@ -25,7 +25,7 @@ url                      : # TODO the base hostname & protocol for your site e.g
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "bilal-chughtai/cuplc_site" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/cursive_logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/assets/images/logos/lion_logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -84,7 +84,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : "/assets/images/lion_logo.png" # Open Graph/Twitter default site image
+og_image                 : "/assets/images/logos/lion_logo.png" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -140,16 +140,6 @@ footer:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://www.facebook.com/cuplc/"
-
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/cuplc/"
@@ -226,8 +216,8 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
+paginate: 4 # amount of posts to show
+paginate_path: posts/page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
@@ -303,6 +293,9 @@ defaults:
       header:
         show_overlay_excerpt: false
         overlay_filter: "0.5"
+        teaser: /assets/images/logos/lion_logo.png
+        overlay_color: "#85B09A"
+        overlay_filter:
   # _pages
   - scope:
       path: ""
@@ -312,5 +305,5 @@ defaults:
       author_profile: false
       header:
         overlay_color: "#85B09A"
-        overlay_filter: 0.5
+        overlay_filter:
         show_overlay_excerpt: false

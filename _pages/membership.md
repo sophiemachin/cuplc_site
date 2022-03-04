@@ -2,7 +2,6 @@
 title: "Membership"
 layout: splash
 permalink: /membership/
-date: 2022-03-01
 header:
   overlay_filter: 0.5
   overlay_image: "assets/images/home_cover.jpg" #maybe a group image from novice comp?

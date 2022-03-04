@@ -1,8 +1,11 @@
 ---
 title: "Varsity Report 2020"
 date: 2020-02-08
-author: Remi Rufus Toye
-tags: Meets Varsity VarsityReports
+author: Remi
+tags:
+  - Meets
+  - Varsity
+  - Meet Reports
 
 header:
   overlay_image: /assets/images/varsity_2020_group.jpg

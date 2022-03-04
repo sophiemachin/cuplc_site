@@ -1,4 +1,4 @@
-Bilal Chughtai:
+Bilal:
   name        : "Bilal Chughtai"
   bio         : "CUPLC Webmaster 2021-2022"
   avatar      : "/assets/images/bio-photo-2.jpg"
@@ -6,21 +6,33 @@ Bilal Chughtai:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:billyrick@rick.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://thewhip.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/extravagantman"
 
-Remi Rufus Toye:
-  name        : "Remi Rufus Toye"
+Essam:
+  name        : "Essam Rama"
+  bio         : "Secretary 2021-2022 <br/> Webmaster 2020-2021"
+  avatar      : "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:billyrick@rick.com"
+
+Remi:
+  name        : "Remi Rufus-Toye"
   bio         : "President 2020-2021 <br/> Men's Captain 2019-2020"
   avatar      : "/assets/images/headshots/remi.png"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:cornelius@thewhip.com"
+      url: "rmr45@cam.ac.uk"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram-square"
       url: "https://www.instagram.com/strength_and_fragility"
+
+Suzanne:
+  name        : "Suzanne Goulder"
+  bio         : "Captain 2017-2018 <br/> Secretary 2016-2017"
+  avatar      : "/assets/images/headshots/suzanne.jpg"
+  links:
+    - label: "archlikesuzanne"
+      icon: "fab fa-fw fa-instagram-square"
+      url: "https://www.instagram.com/archlikesuzanne"

@@ -1,6 +1,6 @@
 ---
 title: Blog
-layout: wide-collection #removes sidebar compared to using layout: collection, classes: wide
+layout: collection-wide
 permalink: /blog/
 collection: posts
 entries_layout: grid
