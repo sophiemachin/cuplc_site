@@ -1,0 +1,12 @@
+.grid-container {
+  display: grid;
+
+  &:three {
+    grid-template-columns: auto auto auto;
+  }
+
+  .grid-item{
+    padding: 10px;
+    text-align: center;
+  }
+}

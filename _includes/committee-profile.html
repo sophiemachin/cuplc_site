@@ -1,0 +1,18 @@
+<div class="team-6">
+    {% unless archive %}
+    <div class="team-img">
+        <img src="{{ member.image_path | relative_url }}" onerror="this.onerror=null;this.src='/assets/images/logos/lion_logo.png'"  alt="Team Image">
+    </div>
+    {% endunless %}
+    <div class="team-content">
+        <h2> {{ member.name }}</h2>
+        <h3> {{ role[0] }} </h3>
+        <!--<p>{{member.bio}}</p>-->
+        {% unless archive %}
+        <div class="team-social">
+            <a class="social-yt" href="mailto:{{member.email}}"><i class="fas fa-envelope"></i></a>
+            <a class="social-in" href="{{member.instagram}}"><i class="fab fa-instagram"></i></a>
+        </div>
+        {% endunless %}
+    </div>
+</div>

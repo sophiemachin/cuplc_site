@@ -1,6 +1,70 @@
-- role: president
-  name: Samin MoghiamiAsl
-  image_path:
-  bio: 
-  email:
-  instagram:
+President:
+  - name: "Samin MoghiamiAsl"
+    image_path: assets/images/headshots/samin.JPG
+    bio: "Samin started powerlifting in ...."
+    email: cuplc-president@srcf.net
+    instagram: "https://www.instagram.com/samin_moghimiasl"
+
+Men's Captain:
+  - name: "Raghul Parthipan"
+    image_path: assets/images/headshots/raghul.png
+    bio: "Raghul started powerlifting in ...."
+    email: cuplc-mens-captain@srcf.net
+    instagram: "https://www.instagram.com/theparthtopower"
+
+Women's Captain:
+  - name: "Beatrice Fishwick"
+    image_path: assets/images/headshots/raghul.png
+    email: cuplc-womens-captain@srcf.net
+    instagram: "https://www.instagram.com/theparthtopower"
+
+Secretary:
+  - name: "Essam Rama"
+    image_path: assets/images/headshots/raghul.png
+    email: cuplc-womens-captain@srcf.net
+    instagram: "https://www.instagram.com/theparthtopower"
+
+Treasurer:
+  - name: "Amy Williams"
+    image_path: assets/images/headshots/raghul.png
+    email: cuplc-womens-captain@srcf.net
+    instagram: "https://www.instagram.com/theparthtopower"
+
+Webmaster:
+  - name: "Bilal Chughtai"
+    image_path: assets/images/headshots/raghul.png
+    email: cuplc-womens-captain@srcf.net
+    instagram: "https://www.instagram.com/theparthtopower"
+
+Stash Officer:
+  - name: "Stelios Sarantellis"
+    image_path: assets/images/headshots/raghul.png
+    email: cuplc-womens-captain@srcf.net
+    instagram: "https://www.instagram.com/theparthtopower"
+
+Social Media Officer:
+  - name: "Laura Kirkpatrick"
+    image_path: assets/images/headshots/raghul.png
+    email: cuplc-womens-captain@srcf.net
+    instagram: "https://www.instagram.com/theparthtopower"
+
+
+Welfare Officer:
+  - name: "Morgan Philips"
+    image_path: assets/images/headshots/raghul.png
+    email: cuplc-womens-captain@srcf.net
+    instagram: "https://www.instagram.com/theparthtopower"
+  - name: "Molly Duxbury"
+    image_path: assets/images/headshots/raghul.png
+    email: cuplc-womens-captain@srcf.net
+    instagram: "https://www.instagram.com/theparthtopower"
+
+Social Secretary:
+  - name: "Thomas Clark"
+    image_path: assets/images/headshots/raghul.png
+    email: cuplc-womens-captain@srcf.net
+    instagram: "https://www.instagram.com/theparthtopower"
+  - name: "Yuvraj Agarwal"
+    image_path: assets/images/headshots/raghul.png
+    email: cuplc-womens-captain@srcf.net
+    instagram: "https://www.instagram.com/theparthtopower"

@@ -21,9 +21,7 @@ Powerlifting is usualy a solo endeavour are usually a solo endeavour. Being a me
 
 Some words about varsity, how it works, when it is, its format, how one must compete to become a blue...
 
-<div class="entries-{{ grid }}">
-  {% include posts-tag.html taxonomy="Varsity Reports" type="grid" %}
-</div>
+## Blues Standard
 
 ## British University Championships
 

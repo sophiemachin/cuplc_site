@@ -20,6 +20,6 @@ This section is for records made by alumni who were CUPLC members while they wer
 
 &nbsp;  
 
-[Contact Webmaster](mailto:webmaster@soc-cuplc.srcf.net){: .btn .btn--primary .align-center}
+[Contact Webmaster](mailto:cuplc-webmaster@srcf.net){: .btn .btn--primary .align-center}
 
 [Detailed Record Rules](/_posts/2022-02-28-club-record-rules/){: .btn .btn--primary .align-center}

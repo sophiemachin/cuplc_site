@@ -14,19 +14,31 @@ header:
 <!-- this grid is used for the docs and committee loop -->
 
 <style>
-.grid-container {
+.grid-container_committee {
   display: grid;
-  grid-template-columns: auto auto auto;
+  grid-template-columns: 1fr 1fr 1fr;
+  column-gap: 3em;
 }
-.grid-item {
+
+.grid-item_committee {
   padding: 10px;
   text-align: center;
 }
 </style>
 
-# Committee
+<!-- # Committee
 
-Our committee are responsible for the day to day running of the club. We organise all club events, socials, and internal competitions, all while trying to grow the club. Our policy documents detail the responsibilities of each individual member.
+Our committee are responsible for the day to day running of the club. We organise all club events, socials, and internal competitions, all while trying to grow the club. Our policy documents detail the responsibilities of each individual member. -->
+
+<div class="grid-container_committee">  
+  {% for role in site.data.committee %} <!-- for each committee position... -->
+    {% for member in role[1] %} <!-- for each committee member in said role... -->
+      <div class="grid-item_committee">
+      {% include committee-profile.html %}
+      </div>
+    {% endfor %}
+  {% endfor %}
+</div>
 
 
 
@@ -34,13 +46,31 @@ Our committee are responsible for the day to day running of the club. We organis
 
 Documents governing how the club is run may be found below.
 
-
-
-<div class="grid-container">
-  <div class="grid-item"><a href="/assets/docs/CU Powerlifting Club Constitution 2020-21.pdf" class="btn btn--primary btn--block btn--large">Constitution</a></div>
-  <div class="grid-item"><a href="/assets/docs/CU Powerlifting Club Code of Conduct 2021-22" class="btn btn--primary btn--block btn--large">Code of Conduct</a></div>
-  <div class="grid-item"><a href="/assets/docs/CU Powerlifting Club Safety Statement 2021-22" class="btn btn--primary btn--block btn--large">Safety Statement</a></div>
-  <div class="grid-item"><a href="/assets/docs/CU Powerlifting Club Welfare Policy 2021-22" class="btn btn--primary btn--block btn--large">Welfare Policy</a></div>
-  <div class="grid-item"><a href="/assets/docs/CU Powerlifting Club Privacy Notice Statement 2021-22" class="btn btn--primary btn--block btn--large">Privacy Notice</a></div>
-  <div class="grid-item"><a href="/assets/docs/CU Powerlifting Committee Job Descriptions" class="btn btn--primary btn--block btn--large">Committee Roles</a></div>
+<div class="grid-container_committee">
+  <div class="grid-item_committee"><a href="/assets/docs/CU Powerlifting Club Constitution 2020-21.pdf" class="btn btn--primary btn--block btn--large">Constitution</a></div>
+  <div class="grid-item_committee"><a href="/assets/docs/CU Powerlifting Club Code of Conduct 2021-22.pdf" class="btn btn--primary btn--block btn--large">Code of Conduct</a></div>
+  <div class="grid-item_committee"><a href="/assets/docs/CU Powerlifting Club Safety Statement 2021-22.pdf" class="btn btn--primary btn--block btn--large">Safety Statement</a></div>
+  <div class="grid-item_committee"><a href="/assets/docs/CU Powerlifting Club Welfare Policy 2021-22.pdf" class="btn btn--primary btn--block btn--large">Welfare Policy</a></div>
+  <div class="grid-item_committee"><a href="/assets/docs/CU Powerlifting Club Privacy Notice Statement 2021-22.pdf" class="btn btn--primary btn--block btn--large">Privacy Notice</a></div>
+  <div class="grid-item_committee"><a href="/assets/docs/CU Powerlifting Committee Job Descriptions.pdf" class="btn btn--primary btn--block btn--large">Committee Roles</a></div>
 </div>
+
+&nbsp;
+
+# Previous Committees
+
+{% assign archive=true %}
+{% for year in site.data.ex-committees %}
+## {{ year[0] }}
+
+<div class="grid-container_committee">  
+  {% for role in year[1] %} <!-- for each committee position... -->
+    {% for member in role[1] %} <!-- for each committee member in said role... -->
+      <div class="grid-item_committee">
+      {% include committee-profile.html %}
+      </div>
+    {% endfor %}
+  {% endfor %}
+</div>
+
+{% endfor %}
