@@ -5,8 +5,8 @@ permalink: /site-credits/
 ---
 
 ## Site Design
-* This website was designed by Bilal Chughtai in 2022
-* Thanks to Jane Amblery for graphic design
+* Site design by [Bilal Chughtai](https://bilal-chughtai.github.io)
+* Graphic design by Jane Ambler
 * Many competition images by [White Lights Media](https://whitelightsmedia.com/)
 
 ## Authors
@@ -17,7 +17,7 @@ The following people have contributed content in the form of blog posts to the w
   {% endfor %}
 </ul>
 
-## Technologies
+<!--## Technologies
 This website is build using a bunch of tools, including
 - [Jekyll](http://jekyllrb.com/)
 - [jQuery](http://jquery.com/)
@@ -29,4 +29,4 @@ This website is build using a bunch of tools, including
 - [jQuery Smooth Scroll](https://github.com/kswedberg/jquery-smooth-scroll)
 - [Stickyfill](https://github.com/wilddeer/stickyfill)
 - [The Noun Project](https://thenounproject.com)
-- [Font Awesome](http://fortawesome.github.io/Font-Awesome/)
+- [Font Awesome](http://fortawesome.github.io/Font-Awesome/)-->

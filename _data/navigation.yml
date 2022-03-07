@@ -1,7 +1,5 @@
 # main links
 main:
-  - title: "The Club"
-    url: /the-club/
   - title: "Blog"
     url: /blog/
   - title: "Committee"

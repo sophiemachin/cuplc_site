@@ -12,7 +12,6 @@ header:
 ---
 <!-- TODO: put this where it belongs... -->
 <!-- this grid is used for the docs and committee loop -->
-
 <style>
 
 .grid-container_committee {
@@ -49,7 +48,7 @@ header:
 
 <!-- # Committee
 
-Our committee are responsible for the day to day running of the club. We organise all club events, socials, and internal competitions, all while trying to grow the club. Our policy documents detail the responsibilities of each individual member. -->
+ -->
 
 <div class="grid-container_committee">  
   {% for role in site.data.committee %} <!-- for each committee position... -->

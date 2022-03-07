@@ -49,6 +49,10 @@
 .page__footer-copyright {
   font-family: $global-font-family;
   font-size: $type-size-7;
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+
 }
 
 .page__footer-follow {

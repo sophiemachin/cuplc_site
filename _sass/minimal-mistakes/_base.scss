@@ -215,6 +215,10 @@ figure {
   flex-wrap: wrap;
   margin: 2em 0;
 
+  &.bottomborder {
+    border-bottom: 1px solid #cecfd1;
+  }
+
   img,
   iframe,
   .fluid-width-video-wrapper {
@@ -290,6 +294,14 @@ figcaption {
     }
   }
 }
+
+/* Figure captions */
+
+entries-grid {
+  margin-bottom: 0.5em;
+  border-bottom: 1px solid #cecfd1;
+}
+
 
 /* Fix IE9 SVG bug */
 

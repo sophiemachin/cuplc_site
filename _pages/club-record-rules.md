@@ -2,9 +2,8 @@
 title: "Rules for Club Records"
 permalink: \record-rules\
 date: 2020-02-08
-tags:
-  - Policy Documents
 show_date: true
+layout: splash
 ---
 ## I Organisation of Records
 1. Records shall be separated into male and female.

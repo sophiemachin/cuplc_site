@@ -2,6 +2,11 @@
 title: "Records"
 layout: splash
 permalink: /records/
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/the-club/sal.jpg
+  caption: "Sal's 300kg deadlift"
 ---
 
 ## Student Records
@@ -22,4 +27,4 @@ This section is for records made by alumni who were CUPLC members while they wer
 
 [Contact Webmaster](mailto:cuplc-webmaster@srcf.net){: .btn .btn--primary .align-center}
 
-[Detailed Record Rules](/_posts/2022-02-28-club-record-rules/){: .btn .btn--primary .align-center}
+[Detailed Record Rules](/record-rules/){: .btn .btn--primary .align-center}

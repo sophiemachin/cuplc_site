@@ -1,18 +1,21 @@
 <style>
 .grid-container {
   display: grid;
-  grid-template-columns: auto auto;
+  grid-template-columns: 1fr 1fr;
 }
-.grid-item {
+.grid-item-1 {
   padding: 0px;
-  text-align: center;
-  border: 1px solid;
-  margin: auto;
+  text-align: left;
+
+}
+.grid-item-2 {
+  padding: 0px;
+  text-align: right;
 }
 </style>
 
 <div class="grid-container">
-    <div class="grid-item">
+    <div class="grid-item-1">
       <div class="page__footer-follow">
         <ul class="social-icons">
           {% if site.data.ui-text[site.locale].follow_label %}
@@ -33,7 +36,7 @@
         </ul>
       </div>
     </div>
-  <div class="grid-item">
-    <div class="page__footer-copyright">&copy;  {{ site.title }} {{ site.time | date: '%Y' }}. Website design by <a href="https://bilal-chughtai.github.io/">Bilal Chughtai</a>. <a href="/site-credits/">Site Credits</a>.</div>
+  <div class="grid-item-2">
+    <div class="page__footer-copyright">&copy;  {{ site.title }} {{ site.time | date: '%Y' }}. <a href="{{relative_url}}/site-credits/">Site Credits</a>.</div>
   </div>
 </div>
