@@ -40,7 +40,7 @@ the_three_powerlifts:
 how_we_operate:
   - image_path: /assets/images/the-club/yaron.jpg
     title: "How we operate"
-    excerpt: "You might wonder what the purpose of our club is given powerlifting is a solo sport. We advise and coach individuals in the best way to achieve their goals. We offer beginning coaching sessions at the start of the year, and regular team training sessions at the University Sports Centre almost every Saturday of full term from 5-7pm. We host in house competitions, for those who'd like to give competing a try in the comfort of our own gym. Our socials are also top class."
+    excerpt: "You might wonder what the purpose of our club is given powerlifting is a solo sport. We advise and coach individuals in the best way to achieve their goals. We offer beginning coaching sessions at the start of the year, and regular team training sessions at the University Sports Centre almost every Saturday of full term from 4-6pm. We host in house competitions, for those who'd like to give competing a try in the comfort of our own gym. Our socials are also top class."
     url: "/membership/"
     btn_label: "Become a member"
     btn_class: "btn--primary"
@@ -93,6 +93,6 @@ committee:
 
 
 # Get in touch
-If you have any questions beyond the content of the website, please do get in touch with general enquiries here, or contact the relevant [committee member](/committee/) directly.
+If you have any questions beyond the content of the website, please do get in touch with general enquiries here, or contact the relevant [committee member]({{site.url}}/{{site.baseurl}}/committee/) directly.
 
 {% include contact-form.html %}

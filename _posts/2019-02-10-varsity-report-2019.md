@@ -12,16 +12,22 @@ header:
   teaser: /assets/images/varsity_2019/group.jpg
 
 gallery:
-  - image_path: /assets/images/varsity_2019/1.webp
-  - image_path: /assets/images/varsity_2019/2.webp
-  - image_path: /assets/images/varsity_2019/8.webp
-  - image_path: /assets/images/varsity_2019/4.webp
-  - image_path: /assets/images/varsity_2019/5.webp
-  - image_path: /assets/images/varsity_2019/6.webp
+  - image_path: /assets/images/varsity_2019/1.jpg
+  - image_path: /assets/images/varsity_2019/2.jpg
+  - image_path: /assets/images/varsity_2019/3.jpg
+  - image_path: /assets/images/varsity_2019/4.jpg
+  - image_path: /assets/images/varsity_2019/5.jpg
+  - image_path: /assets/images/varsity_2019/6.jpg
+  - image_path: /assets/images/varsity_2019/7.jpg
+  - image_path: /assets/images/varsity_2019/8.jpg
+  - image_path: /assets/images/varsity_2019/9.jpg
+
 ---
 # Varsity Win for CUPLC for the 7th year running
 
 ### Cambridge 3315.8 - Oxford 3170.3 - Oxford 4636.2 [Results](https://www.openpowerlifting.org/m/epa/2006){: .btn .btn--primary .btn--large .align-right}
+
+{% assign image_path = site.url | append: "/" | append: site.baseurl | append: "/assets/images/varsity_2019" %}
 
 &nbsp;
 
@@ -54,7 +60,7 @@ A huge thanks goes out to all those who organised and helped out with running th
 
 {% include gallery %}
 
-![image-right](/assets/images/varsity_2019/result_summary.jpg){: .align-right}
+![image-right]({{ image_path }}/result_summary.jpg){: .align-right}
 
 ### Half Blues (new):
 * Angus Coyne-Grell - 597.1 IPF points

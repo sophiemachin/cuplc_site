@@ -33,4 +33,4 @@ To clarify, CUPLC membership does not include access to the University Sports Ce
 [Sign Up Here](https://forms.gle/4vjmT3swVDQbvQyV8  ){: .btn .btn--primary .btn--large .align-center}
 
 
-Any questions regarding club membership should be directed towards the [club secretary](mailto: secretary@soc-cuplc.srcf.net).
+Any questions regarding club membership should be directed towards the [club secretary](mailto: cuplc-secretary@srcf.net).

@@ -1,7 +1,7 @@
 Bilal:
   name       :  "Bilal Chughtai"
   bio         : "CUPLC Webmaster 2021-2022"
-  avatar      : "/assets/images/bio-photo-2.jpg"
+  avatar      : "/assets/images/bilal.jpeg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -36,3 +36,12 @@ Suzanne:
     - label: "archlikesuzanne"
       icon: "fab fa-fw fa-instagram-square"
       url: "https://www.instagram.com/archlikesuzanne"
+
+Steven Smithies:
+  name        : "Steven Smithies"
+  bio         : "Treaurer 2020-2021 <br/> Webmaster 2018-2020"
+  avatar      : "/assets/images/headshots/steve.jpg"
+  links:
+    - label: "liftlaughlovexoxo"
+      icon: "fab fa-fw fa-instagram-square"
+      url: "https://www.instagram.com/liftlaughlovexoxo"

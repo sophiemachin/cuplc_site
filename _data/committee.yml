@@ -26,15 +26,15 @@ Secretary:
 
 Treasurer:
   - name: "Amy Williams"
-    image_path: assets/images/headshots/raghul.png
+    image_path: assets/images/headshots/amy.jpg
     email: cuplc-womens-captain@srcf.net
     instagram: "https://www.instagram.com/theparthtopower"
 
 Webmaster:
   - name: "Bilal Chughtai"
-    image_path: assets/images/headshots/raghul.png
+    image_path: /assets/images/headshots/bilal.jpeg
     email: cuplc-womens-captain@srcf.net
-    instagram: "https://www.instagram.com/theparthtopower"
+    instagram: "https://www.instagram.com/beelalsgymdiaries"
 
 Stash Officer:
   - name: "Stelios Sarantellis"

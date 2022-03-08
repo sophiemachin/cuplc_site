@@ -20,9 +20,12 @@ gallery:
   - image_path: /assets/images/varsity_2020/6.jpeg
   - image_path: /assets/images/varsity_2020/7.jpeg
 ---
+
 # Varsity Win for CUPLC for the 8th year running
 
 ### Cambridge 4696.1 - Oxford 4636.2 [Results](https://www.openpowerlifting.org/m/epa/2006){: .btn .btn--primary .btn--large .align-right}
+
+{% assign image_path = site.baseurl | append: "/assets/images/varsity_2020" %}
 
 &nbsp;
 
@@ -47,7 +50,7 @@ Congratulations to Sophie Smith for being the best overall female lifter and Rem
 
 {% include gallery %}
 
-![image-right](/assets/images/result_summary_varsity_2020.png){: .align-right}
+![image-right]({{ image_path }}/result_summary.png){: .align-right}
 
 ### Blues
 * Breatrice Fishwick - 652.3 IPF Points
