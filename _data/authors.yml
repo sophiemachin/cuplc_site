@@ -1,7 +1,7 @@
 Bilal:
   name       :  "Bilal Chughtai"
   bio         : "CUPLC Webmaster 2021-2022"
-  avatar      : "/assets/images/bilal.jpeg"
+  avatar      : "/assets/images/headshots/bilal.jpeg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -10,7 +10,7 @@ Bilal:
 Essam:
   name        : "Essam Rama"
   bio         : "Secretary 2021-2022 <br/> Webmaster 2020-2021"
-  avatar      : "/assets/images/bio-photo-2.jpg"
+  avatar      : "/assets/images/headshots/essam.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -45,3 +45,14 @@ Steven Smithies:
     - label: "liftlaughlovexoxo"
       icon: "fab fa-fw fa-instagram-square"
       url: "https://www.instagram.com/liftlaughlovexoxo"
+
+Ali Ghareeb:
+  name        : "Ali Ghareeb"
+  bio         : "President 2016-2017 <br/> Social Secretary 2015-2016"
+  avatar      :
+
+
+Andrew Hodgeson:
+  name        : "Andrew Hodgeson"
+  bio         : "President 2015-2016 <br/> Webmaster 2016-2017"
+  avatar      : "/assets/images/headshots/hodge.jpg"

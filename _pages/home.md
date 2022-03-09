@@ -1,6 +1,5 @@
 ---
 title: "Welcome to CUPLC"
-excerpt: "d"
 layout: splash
 permalink: /
 date: 2022-02-28
@@ -24,7 +23,7 @@ logo_gallery:
 what_is_powerlifting:
   - image_path: /assets/images/the-club/pres.jpeg
     title: "What is powerlifting?"
-    excerpt: "Powerlifting is a strength sport consisting of three events: the squat, the bench press and the deadlift, descriptions of which may be found below. The lifter gets three attempts at a 1 rep max for each lift. Your best succesful attempts are summed, giving you a total. This total is what one seeks to optimise, given a certain weight class. "
+    excerpt: "Powerlifting is a strength sport consisting of three events: the squat, the bench press and the deadlift, descriptions of which may be found below. The lifter gets three attempts at a 1 rep max for each lift. Your best successful attempts are summed, giving you a total. This total is what one seeks to optimise, given a certain weight class. "
 
 the_three_powerlifts:
   - title: "Squat"

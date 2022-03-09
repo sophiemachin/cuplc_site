@@ -3,7 +3,9 @@ title: "CUPLC in the age of COVID "
 date: 2020-11-08
 author: Essam
 tags:
-
+header:
+  overlay_image: /assets/images/cuplc_in_the_age_of_covid/1.jpg
+  teaser: /assets/images/cuplc_in_the_age_of_covid/1.jpg
 ---
 I think it’s fair to say that at the beginning of term few knew how things would pan out. Given that we are now halfway (or a bit further by the time I finish writing this) I thought it would be nice to look back at how things have unfolded; a mini highlight reel if you will.
 
