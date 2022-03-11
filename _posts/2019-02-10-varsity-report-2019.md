@@ -25,9 +25,9 @@ gallery:
 ---
 # Varsity Win for CUPLC for the 7th year running
 
-### Cambridge 3315.8 - Oxford 3170.3 - Oxford 4636.2 [Results](https://www.openpowerlifting.org/m/epa/2006){: .btn .btn--primary .btn--large .align-right}
-
 {% assign image_path = site.url | append: "/" | append: site.baseurl | append: "/assets/images/varsity_2019" %}
+
+### Cambridge 3315.8 - Oxford 3170.3 - Oxford 4636.2 [Results]({{image_path}}/varsity_results_2019.xlsx){: .btn .btn--primary .btn--large .align-right}
 
 &nbsp;
 

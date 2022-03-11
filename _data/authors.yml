@@ -1,4 +1,4 @@
-Bilal:
+Bilal Chughtai:
   name       :  "Bilal Chughtai"
   bio         : "CUPLC Webmaster 2021-2022"
   avatar      : "/assets/images/headshots/bilal.jpeg"
@@ -7,7 +7,7 @@ Bilal:
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:billyrick@rick.com"
 
-Essam:
+Essam Rama:
   name        : "Essam Rama"
   bio         : "Secretary 2021-2022 <br/> Webmaster 2020-2021"
   avatar      : "/assets/images/headshots/essam.jpg"
@@ -16,7 +16,7 @@ Essam:
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:billyrick@rick.com"
 
-Remi:
+Remi Rufus-Toye:
   name        : "Remi Rufus-Toye"
   bio         : "President 2020-2021 <br/> Men's Captain 2019-2020"
   avatar      : "/assets/images/headshots/remi.png"
@@ -28,7 +28,7 @@ Remi:
       icon: "fab fa-fw fa-instagram-square"
       url: "https://www.instagram.com/strength_and_fragility"
 
-Suzanne:
+Suzanne Goulder:
   name        : "Suzanne Goulder"
   bio         : "Captain 2017-2018 <br/> Secretary 2016-2017"
   avatar      : "/assets/images/headshots/suzanne.jpg"

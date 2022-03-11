@@ -1,7 +1,7 @@
 ---
 title: "CUPLC in the age of COVID "
 date: 2020-11-08
-author: Essam
+author: Essam Rama
 tags:
 header:
   overlay_image: /assets/images/cuplc_in_the_age_of_covid/1.jpg

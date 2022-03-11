@@ -1,7 +1,7 @@
 ---
 title: "CUPLC at Junior Nationals 2017"
 date: 2018-07-05
-author: Suzanne
+author: Suzanne Goulder
 tags:
   - Meets
   - Meet Reports

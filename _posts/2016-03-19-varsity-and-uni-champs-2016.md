@@ -15,9 +15,11 @@ header:
 ---
 # Varsity and University Championships Glory for CUPLC
 
-### Cambridge 3315.8 - Oxford 3170.3 - Oxford 4636.2 [Results](https://www.openpowerlifting.org/m/epa/2006){: .btn .btn--primary .btn--large .align-right}
+{% assign image_path = site.url | append: "/" | append: site.baseurl | append: "/assets/images/varsity_2016" %}
 
-{% assign image_path = site.url | append: "/" | append: site.baseurl | append: "/assets/images/varsity_206" %}
+### Cambridge 3315.8 - Oxford 3170.3 - Oxford 4636.2 [Results]({{image_path}}/results.png){: .btn .btn--primary .btn--large .align-right}
+
+
 
 &nbsp;
 
@@ -34,7 +36,7 @@ The next flight began with Jamu ‘Jizz’ Zhao making his first attempt look li
 In the heavyweights, Rugby Blue mercenary and competitive bodybuilder Dave ‘Big D’ Spelman squatted an easy 205kg, Spelman having been called in as a last minute replacement, this was his first powerlifting meet. Frank ‘The Tank’ Sanders, weighing in at a slim 113.8kg bravely squatted 260kg in his third attempt to the despair of Oxford. James Thompson, severely bloated after having eaten too many brioche post weigh-in, missed his second attempt at 215kg but managed to recover it in his third attempt.
 
 <figure>
-  <img src="{{ image_path }}/1.jpg">
+  <img src="{{ image_path }}/2.jpg">
   <figcaption>‘BIG D’ IN THE HOLE.</figcaption>
 </figure>
 
@@ -46,7 +48,7 @@ Meanwhile, the middleweights prepared for their deadlifts in the warm-up room, a
 All eyes were on Varun Broda in the heavy weight class who was opening his deadlifts at 232.5kg, a 17kg PR so that he could attain the half-blue standard of 320 Wilks points. Hearts fell as he missed his first attempt by dropping the bar. After a pep talk from The Tank and Ghareeb, and some of Dennis’ secret pre-workout he almost cleaned the second attempt and then set it down like a gentle lover. Three white lights for Broda. Jack West, a Varsity veteran returning from a rugby injury put up a huge performance and deadlifted 260kg in his final attempt. ‘The Tank’ took the heaviest deadlift of the competition, pulling 320kg which he dedicated to his cat, Mr Susan, whom he likes to dress up in small cat outfits.
 
 <figure>
-  <img src="{{ image_path }}/2.jpg">
+  <img src="{{ image_path }}/1.jpg">
   <figcaption>FRANK ‘THE TANK’ HOLDING 320KG..</figcaption>
 </figure>
 
@@ -61,6 +63,10 @@ Congratulations to Salman Khan who finished top lifter at Varsity with 449 Wilks
   <figcaption>VICTORY IS SWEET.</figcaption>
 </figure>
 
+<figure>
+  <img src="{{ image_path }}/results.png">
+  <figcaption>Results</figcaption>
+</figure>
 
 
 ### Full Blues (new):
