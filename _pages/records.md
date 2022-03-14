@@ -27,4 +27,4 @@ This section is for records made by alumni who were CUPLC members while they wer
 
 [Contact Webmaster](mailto:cuplc-webmaster@srcf.net){: .btn .btn--primary .align-center}
 
-[Detailed Record Rules]({{site.url}}/{{site.baseurl}}/record-rules/){: .btn .btn--primary .align-center}
+[Detailed Record Rules]({{site.url}}{{site.baseurl}}/record-rules/){: .btn .btn--primary .align-center}
