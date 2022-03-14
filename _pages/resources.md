@@ -1,7 +1,7 @@
 ---
-title: "Welcome to CUPLC"
+title: "Resources"
 layout: splash
-permalink: /
+permalink: /resources/
 date: 2022-02-28
 header:
   overlay_color: "#000"
@@ -9,18 +9,12 @@ header:
   overlay_image: /assets/images/home_cover.jpg
   caption: "Varsity 2020"
 
-club_mission:
+resources:
   - image_path: /assets/images/logos/arty_lion.png
     title: "Club Mission"
-    excerpt: "CUPLC's goals are two fold. We firstly seek to be a community of people sharing a love of lifting. Our members comprise experienced international powerlifters holding national records to novice lifters just starting out. Secondly, we encourage and facilitate members competing wherever possible, including against Oxford at our annual Varsity match."
+    excerpt: "We appreciate that the amount of information thrown at you when you first start powerlifting may be overwhelming. We've therefore written some information about some of powerlifting's key principles. There's a lot here, organised in my suggested reading order. Start with the first few ideas, and progress through them as you become more comfortable."
 
-logo_gallery:
-  - image_path: /assets/images/logos/cam.png
-  - image_path: /assets/images/logos/cam_sport.png
-  - image_path: /assets/images/logos/british_powerlifting.png
-  - image_path: /assets/images/logos/ipf.png
-
-what_is_powerlifting:
+technique:
   - image_path: /assets/images/the-club/pres.jpeg
     title: "What is powerlifting?"
     excerpt: "Powerlifting is a strength sport consisting of three events: the squat, the bench press and the deadlift, descriptions of which may be found below. The lifter gets three attempts at a 1 rep max for each lift. Your best successful attempts are summed, giving you a total. This total is what one seeks to optimise, given a certain weight class. "
@@ -28,13 +22,13 @@ what_is_powerlifting:
 the_three_powerlifts:
   - title: "Squat"
     image_path: /assets/images/the-club/squat.jpg
-    excerpt: "At the referee's command, the athlete lowers themselves into a squatting position with the hips slightly below parallel position. The athlete then returns to a standing position."
+    excerpt: "At the referee's command, the athlete lowers themselves into a squatting position with the hips slightly below parallel position. The athlete then returns to a standing position"
   - title: "Bench"
     image_path: /assets/images/the-club/bench.jpg
-    excerpt: "At the referee's command, the athlete lowers the bar to the chest, holding it motionless until the referee gives the press command. The athlete then pushes the weight up until the arms are straight and the elbows locked."
+    excerpt: "At the referee's command, the athlete lowers the bar to the chest, holding the bar motionless until the referee gives the press command. The athlete pushes the weight up until the arms are straight and the elbows locked."
   - title: "Deadlift"
     image_path: /assets/images/the-club/deadlift.jpg
-    excerpt: "The king of the powerlifting disciplines. The athlete grasps the bar which is resting on the platform floor, pulls the weight off the floor and assumes a standing erect position."
+    excerpt: "The king of the powerlifting disciplines. The athlete grasps the bar which is resting on the platform floor, pulls the weight off the floor and assumes a standing erect position"
 
 how_we_operate:
   - image_path: /assets/images/the-club/yaron.jpg
