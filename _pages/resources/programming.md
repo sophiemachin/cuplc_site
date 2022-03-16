@@ -1,6 +1,6 @@
 ---
 title: "Programming"
-date: 2011-02-20
+date: 2019-07-01
 permalink: /resources/programming/
 authors:
 - Steven Smithies

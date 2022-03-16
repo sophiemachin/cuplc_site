@@ -3,16 +3,19 @@ title: "Welcome to CUPLC"
 layout: splash
 permalink: /
 date: 2022-02-28
+excerpt: "CUPLC's goals are two fold. We firstly seek to be a community of people sharing a love of lifting. Our members comprise experienced international powerlifters holding national records to novice lifters just starting out. Secondly, we encourage and facilitate members competing wherever possible, including against Oxford at our annual Varsity match."
+
 header:
+  show_overlay_excerpt: true
   overlay_color: "#000"
-  overlay_filter: "0.5"
+  overlay_filter: "0.8"
   overlay_image: /assets/images/home_cover.jpg
   caption: "Varsity 2020"
 
+
 club_mission:
-  - image_path: /assets/images/logos/arty_lion.png
+  - image_path: /assets/images/logos/lion_logo.png
     title: "Club Mission"
-    excerpt: "CUPLC's goals are two fold. We firstly seek to be a community of people sharing a love of lifting. Our members comprise experienced international powerlifters holding national records to novice lifters just starting out. Secondly, we encourage and facilitate members competing wherever possible, including against Oxford at our annual Varsity match."
 
 logo_gallery:
   - image_path: /assets/images/logos/cam.png
@@ -66,7 +69,7 @@ committee:
     btn_class: "btn--primary"
 
 ---
-{% include feature_row id="club_mission" type="center" %}
+
 
 {% include gallery id="logo_gallery" layout="fourth bottomborder" %}
 
@@ -78,7 +81,7 @@ committee:
   {% endfor %}
 </div>
 
-{% include feature_row id="what_is_powerlifting" type="left" %}
+{% include feature_row id="what_is_powerlifting" type="left" class="top-bar" %}
 
 {% include feature_row id="the_three_powerlifts" %}
 

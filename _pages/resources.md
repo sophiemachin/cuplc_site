@@ -10,82 +10,72 @@ header:
   caption: "Varsity 2020"
 
 resources:
-  - image_path: /assets/images/logos/arty_lion.png
-    title: "Club Mission"
-    excerpt: "We appreciate that the amount of information thrown at you when you first start powerlifting may be overwhelming. We've therefore written some information about some of powerlifting's key principles. There's a lot here, organised in my suggested reading order. Start with the first few ideas, and progress through them as you become more comfortable."
-
-technique:
-  - image_path: /assets/images/the-club/pres.jpeg
-    title: "What is powerlifting?"
-    excerpt: "Powerlifting is a strength sport consisting of three events: the squat, the bench press and the deadlift, descriptions of which may be found below. The lifter gets three attempts at a 1 rep max for each lift. Your best successful attempts are summed, giving you a total. This total is what one seeks to optimise, given a certain weight class. "
-
-the_three_powerlifts:
-  - title: "Squat"
-    image_path: /assets/images/the-club/squat.jpg
-    excerpt: "At the referee's command, the athlete lowers themselves into a squatting position with the hips slightly below parallel position. The athlete then returns to a standing position"
-  - title: "Bench"
-    image_path: /assets/images/the-club/bench.jpg
-    excerpt: "At the referee's command, the athlete lowers the bar to the chest, holding the bar motionless until the referee gives the press command. The athlete pushes the weight up until the arms are straight and the elbows locked."
-  - title: "Deadlift"
-    image_path: /assets/images/the-club/deadlift.jpg
-    excerpt: "The king of the powerlifting disciplines. The athlete grasps the bar which is resting on the platform floor, pulls the weight off the floor and assumes a standing erect position"
-
-how_we_operate:
-  - image_path: /assets/images/the-club/yaron.jpg
-    title: "How we operate"
-    excerpt: "You might wonder what the purpose of our club is given powerlifting is a solo sport. We advise and coach individuals in the best way to achieve their goals. We offer beginning coaching sessions at the start of the year, and regular team training sessions at the University Sports Centre almost every Saturday of full term from 4-6pm. We host in house competitions, for those who'd like to give competing a try in the comfort of our own gym. Our socials are also top class."
+  - image_path:
+    title: "Resources"
+    excerpt: "We appreciate that the amount of information thrown at you when you first start powerlifting may be overwhelming. We've therefore written some information about some of powerlifting's key principles so you may come back to it in your own time. There's a lot here, organised in a suggested reading order, along with links to suggested external resources. Thanks to ex-webmaster Steve for putting most of this together. If you find the information on this page useful, we think you'd also gain a lot from joining the club."
     url: "/membership/"
     btn_label: "Become a member"
     btn_class: "btn--primary"
 
-training:
-  - image_path: /assets/images/the-club/uni-gym.jpg
-    title: "Training"
-    excerpt: "Some members join just to be part of a friendly group of individuals who share a love of weight training, with no intention of ever competing. Some train to compete in Varsity, and some compete internationally. As such, there is no right way to train that suits all needs and abilities. Powerlifting is perfect for the busy Cambridge student looking to keep in shape, be part of a supportive team but not be tied into regimented training times. That said, any of us choose to train in the evenings at the University Sports Centre with others."
-
-competing:
-  - image_path: /assets/images/the-club/vik.jpg
-    title: "Competing"
-    excerpt: "We are a very accessible club for those who wish to get stronger, even those with no aspirations to compete. Everyone is welcome. While there is no obligation to, we encourage our members to give competing a go. While initially intimidating, competing can be a very satisfying and fulfilling experience, and the club is here to support newcomers to the sport. Our informal internal competitions provide an excellent opportunity to give it a go."
-    url: "/competitions/"
-    btn_label: "More on competing"
+technique:
+  - image_path: /assets/images/resources/technique.webp
+    title: "Technique"
+    excerpt: "Powerlifting is by no means the most technical sport out there, but is also not mindless. As a bare minimum, one should strive to have sufficiently good technique so as to not injure themselves while training. Beyond this, further weight may be lifted may be unlocked through constant work refining of technique, alongside neurological strength gains and physical hypertrophic gains. "
+    url: "/resources/technique/"
+    btn_label: "Read More"
     btn_class: "btn--primary"
 
-committee:
-  - image_path: /assets/images/the-club/suzandsal.jpg
-    title: "Committee"
-    excerpt: 'Our committee are responsible for the day to day running of the club. We organise club events, socials, and internal competitions. We try to promote and spread the joy of powerlifting.'
-    url: "/committee/"
-    btn_label: "Meet the committee"
+programming:
+  - image_path: /assets/images/resources/program.png
+    title: "Programming"
+    excerpt: "People usually start off with a 'cookie cutter' program, of which we recommend several good options we've tried ourselves. These however can't work forever, as one becomes a more intermediate lifter. We go on to outline the key training variables behind a good program, and how one could write and structure their own programs for more specific goals as they become more advanced. Also check out our pages on finding your [maximum recoverable volume](/resources/finding-your-mrv/) and [addressing weak points](/addressing-weak-points/)."
+    url: "/resources/programming/"
+    btn_label: "Read More"
     btn_class: "btn--primary"
+
+nutrition:
+  - image_path: /assets/images/resources/food.jpg
+    title: "Nutrition"
+    excerpt: "Gains are famously 'made in the kitchen'. Here we describe how precisely this works, and what variables one has at their disposal to control here. We like to think about this as a pyramid - some variables are more important than others. There's no point worrying about your vitamin levels if you're not eating enough to satisfactorily recover."
+    url: "/resources/nutrition/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+
+recovery:
+  - image_path: /assets/images/resources/sleep.webp
+    title: "Recovery"
+    excerpt: "Muscle tissue is damaged through training, and can only repair and adapt to be stronger provided sufficient ability to recover. Nutrition plays a key role in recovery, but is not the only factor. Sleep and stress are additionally both known to play an important role in the bodies regenerative processes. There are several other less extensively researched interventions that may aid recovery also."
+    url: "/resources/recovery/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+
+equipment:
+  - image_path: /assets/images/resources/equip.jpg
+    title: "Equipment"
+    excerpt: "The bar to entry is relatively low in powerlifting. You can start out with just a gym membership, and your usual gym clothes. As you progress, you'll probably want to acquire several bits of kit to help increase tightness and reduce energy leaks, ensuring your force is being transferred into the bar as effeicently as possible."
+    url: "/resources/recovery/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+
+competition-advice:
+  - image_path: /assets/images/resources/competing.jpg
+    title: "Competition Advice"
+    excerpt: "Competing for the first time sounds an intimidating endeavour, but it shouldn't be. Here we outline how to prepare for a competition in the weeks and days leading up to it, as well as things to keep in mind and bring on the day itself. "
+    url: "/resources/competition-advice/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+
+
 
 ---
-{% include feature_row id="club_mission" type="center" %}
+{% include feature_row id="resources" type="center" %}
 
-{% include gallery id="logo_gallery" layout="fourth bottomborder" %}
+{% include feature_row id="technique" type="left" %}
 
-# Recent Blog Posts [View More](/blog/){: .btn .btn--primary .align-right}
+{% include feature_row id="programming" type="right" %}
 
-<div class="entries-grid">
-  {% for post in site.posts limit:4 %}
-    {% include archive-single.html type='grid' %}
-  {% endfor %}
-</div>
+{% include feature_row id="nutrition" type="left" %}
 
-{% include feature_row id="what_is_powerlifting" type="left" %}
+{% include feature_row id="recovery" type="right" %}
 
-{% include feature_row id="the_three_powerlifts" %}
-
-{% include feature_row id="how_we_operate" type="right" %}
-
-{% include feature_row id="training" type="left" %}
-
-{% include feature_row id="competing" type="right" %}
-
-{% include feature_row id="committee" type="left" %}
-
-
-# Get in touch
-If you have any questions beyond the content of the website, please do get in touch with general enquiries here, or contact the relevant [committee member]({{site.url}}/{{site.baseurl}}/committee/) directly.
-
-{% include contact-form.html %}
+{% include feature_row id="competition-advice" type="left" %}

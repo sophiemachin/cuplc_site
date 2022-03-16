@@ -1,12 +1,12 @@
 # main links
 main:
-  - title: "Blog"
-    url: /blog/
   - title: "Committee"
     url: /committee/
   - title: "Competitions"
     url: /competitions/
   - title: "Records"
     url: /records/
-  - title: "Members"
-    url: /members/
+  - title: "Resources"
+    url: /resources/
+  - title: "Blog"
+    url: /blog/

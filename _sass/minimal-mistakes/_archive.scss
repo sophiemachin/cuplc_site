@@ -67,7 +67,7 @@
 /* remove border*/
 .page__content {
   .archive__item-title {
-    margin-top: 1em;
+    margin-top: 0em;
     border-bottom: none;
   }
 }
@@ -76,7 +76,7 @@
   margin-top: 0;
   font-size: $type-size-6;
   text-align: justify;
-  
+
   & + p {
     text-indent: 0;
   }
@@ -244,6 +244,18 @@
   margin-bottom: 2em;
   border-bottom: 1px solid $border-color;
 
+  .archive__item-title {
+    margin-bottom: 0;
+  }
+
+}
+
+.feature__wrapper--top-bar {
+  @include clearfix();
+  margin-bottom: 2em;
+  border-bottom: 1px solid $border-color;
+  padding-top: 2em;
+  border-top: 1px solid $border-color;
 
   .archive__item-title {
     margin-bottom: 0;

@@ -9,9 +9,6 @@ header:
 
 
 ---
-
-## Membership
-
 {% include video id="fTGfiErl7Og" provider="youtube" %}
 
 Want to be part of the **strongest** club in Cambridge?  Look no further. Membership offers access to the following perks:

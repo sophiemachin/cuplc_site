@@ -1,6 +1,6 @@
 ---
 title: "Finding your MRV and Frequency"
-date: 2011-02-20
+date: 2019-07-01
 permalink: /resources/programming/finding-your-mrv/
 authors:
 - Steven Smithies

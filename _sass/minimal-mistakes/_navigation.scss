@@ -197,7 +197,11 @@
     }
 
     &.site-title {
+      @import url('https://fonts.googleapis.com/css2?family=Amatic+SC&display=swap');
       margin-left: 0;
+      font-family: 'Amatic SC', cursive;
+      font-style: italic;
+      font-size: 1.5em
     }
   }
 
