@@ -3,7 +3,7 @@ title: "Welcome to CUPLC"
 layout: splash
 permalink: /
 date: 2022-02-28
-excerpt: "CUPLC's goals are two fold. We firstly seek to be a community of people sharing a love of lifting. Our members comprise experienced international powerlifters holding national records to novice lifters just starting out. Secondly, we encourage and facilitate members competing wherever possible, including against Oxford at our annual Varsity match."
+excerpt: "CUPLC exists for two reasons. We firstly seek to be a community of people sharing a love of lifting. Our members comprise experienced international powerlifters holding national records to novice lifters just starting out. We also seek to encourage and facilitate members competing in the sport of powerlifting wherever possible, including against Oxford at our annual Varsity match."
 
 header:
   show_overlay_excerpt: true
@@ -11,11 +11,6 @@ header:
   overlay_filter: "0.8"
   overlay_image: /assets/images/home_cover.jpg
   caption: "Varsity 2020"
-
-
-club_mission:
-  - image_path: /assets/images/logos/lion_logo.png
-    title: "Club Mission"
 
 logo_gallery:
   - image_path: /assets/images/logos/cam.png
@@ -27,6 +22,9 @@ what_is_powerlifting:
   - image_path: /assets/images/the-club/pres.jpeg
     title: "What is powerlifting?"
     excerpt: "Powerlifting is a strength sport consisting of three events: the squat, the bench press and the deadlift, descriptions of which may be found below. The lifter gets three attempts at a 1 rep max for each lift. Your best successful attempts are summed, giving you a total. This total is what one seeks to optimise, given a certain weight class. "
+    url: "/resources/"
+    btn_label: "More information"
+    btn_class: "btn--primary"
 
 the_three_powerlifts:
   - title: "Squat"
@@ -69,11 +67,7 @@ committee:
     btn_class: "btn--primary"
 
 ---
-
-
-{% include gallery id="logo_gallery" layout="fourth bottomborder" %}
-
-# Recent Blog Posts [View More](/blog/){: .btn .btn--primary .align-right}
+# Recent Blog Posts [View More](/blog/){: .btn .btn--primary .btn--small .align-right}
 
 <div class="entries-grid">
   {% for post in site.posts limit:4 %}
@@ -81,7 +75,10 @@ committee:
   {% endfor %}
 </div>
 
-{% include feature_row id="what_is_powerlifting" type="left" class="top-bar" %}
+{% include feature_row %}
+{% include gallery id="logo_gallery" layout="fourth bottomborder" %}
+
+{% include feature_row id="what_is_powerlifting" type="left" %}
 
 {% include feature_row id="the_three_powerlifts" %}
 

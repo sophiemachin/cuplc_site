@@ -2,49 +2,33 @@ Bilal Chughtai:
   name       :  "Bilal Chughtai"
   bio         : "CUPLC Webmaster 2021-2022"
   avatar      : "/assets/images/headshots/bilal.jpeg"
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:billyrick@rick.com"
 
 Essam Rama:
   name        : "Essam Rama"
   bio         : "Secretary 2021-2022 <br/> Webmaster 2020-2021"
   avatar      : "/assets/images/headshots/essam.jpg"
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:billyrick@rick.com"
+  email       : "eir24@cam.ac.uk"
 
 Remi Rufus-Toye:
   name        : "Remi Rufus-Toye"
   bio         : "President 2020-2021 <br/> Men's Captain 2019-2020"
   avatar      : "/assets/images/headshots/remi.png"
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "rmr45@cam.ac.uk"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram-square"
-      url: "https://www.instagram.com/strength_and_fragility"
+  email       : "rmr45@cam.ac.uk"
+  instagram   : "strength_and_fragility"
+
 
 Suzanne Goulder:
   name        : "Suzanne Goulder"
   bio         : "Captain 2017-2018 <br/> Secretary 2016-2017"
   avatar      : "/assets/images/headshots/suzanne.jpg"
-  links:
-    - label: "archlikesuzanne"
-      icon: "fab fa-fw fa-instagram-square"
-      url: "https://www.instagram.com/archlikesuzanne"
+  instagram   : "archlikesuzanne"
 
 Steven Smithies:
   name        : "Steven Smithies"
   bio         : "Treaurer 2020-2021 <br/> Webmaster 2018-2020"
   avatar      : "/assets/images/headshots/steve.jpg"
-  links:
-    - label: "liftlaughlovexoxo"
-      icon: "fab fa-fw fa-instagram-square"
-      url: "https://www.instagram.com/liftlaughlovexoxo"
+  instagram   : "liftlaughlove_xoxo"
+
 
 Ali Ghareeb:
   name        : "Ali Ghareeb"

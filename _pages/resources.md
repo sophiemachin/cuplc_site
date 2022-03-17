@@ -12,7 +12,7 @@ header:
 resources:
   - image_path:
     title: "Resources"
-    excerpt: "We appreciate that the amount of information thrown at you when you first start powerlifting may be overwhelming. We've therefore written some information about some of powerlifting's key principles so you may come back to it in your own time. There's a lot here, organised in a suggested reading order, along with links to suggested external resources. Thanks to ex-webmaster Steve for putting most of this together. If you find the information on this page useful, we think you'd also gain a lot from joining the club."
+    excerpt: "We appreciate that the amount of information thrown at you when you first start powerlifting may be overwhelming. We've therefore written some information about some of powerlifting's key principles so you may come back to it in your own time. There's a lot here, organised in a suggested reading order, along with links to external resources. Thanks to ex-webmaster Steve for putting a lot of this together. If you find the information on this page useful, we think you'd probably also gain a lot from joining the club."
     url: "/membership/"
     btn_label: "Become a member"
     btn_class: "btn--primary"
@@ -44,7 +44,7 @@ nutrition:
 recovery:
   - image_path: /assets/images/resources/sleep.webp
     title: "Recovery"
-    excerpt: "Muscle tissue is damaged through training, and can only repair and adapt to be stronger provided sufficient ability to recover. Nutrition plays a key role in recovery, but is not the only factor. Sleep and stress are additionally both known to play an important role in the bodies regenerative processes. There are several other less extensively researched interventions that may aid recovery also."
+    excerpt: "Muscle tissue is damaged through training, and can only repair and adapt to be stronger when provided sufficient ability to recover. Nutrition plays a key role in recovery, but is not the only factor. Sleep and stress are both known to have important effects on the body's regenerative processes. There are also several other less extensively researched interventions that may aid or hinder recovery."
     url: "/resources/recovery/"
     btn_label: "Read More"
     btn_class: "btn--primary"
