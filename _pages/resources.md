@@ -58,7 +58,7 @@ equipment:
     btn_class: "btn--primary"
 
 competition-advice:
-  - image_path: /assets/images/resources/competing.jpg
+  - image_path: /assets/images/resources/competing.JPG
     title: "Competition Advice"
     excerpt: "Competing for the first time sounds an intimidating endeavour, but it shouldn't be. Here we outline how to prepare for a competition in the weeks and days leading up to it, as well as things to keep in mind and bring on the day itself. "
     url: "/resources/competition-advice/"
