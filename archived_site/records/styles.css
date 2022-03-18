@@ -1,0 +1,220 @@
+/* Main background */
+body {
+  background-color: #a3c1ad
+}
+#main {
+  width:            850px;
+  margin:           0px auto;
+  border:           2px solid #222;
+  box-shadow:       0px 0px 2px #000;
+  background-color: #fff;
+}
+/* Navigation Section */
+#nav ul {
+  list-style-type:  none;
+  margin:           0;
+  padding:          0;
+}
+
+#nav li {
+  float:            left;
+  padding:          0px 3px 0px 3px;
+}
+
+#nav a {
+  display:          block;
+  width:            1em;
+  text-transform:   uppercase;
+  background-color: #000;
+  color:            #fff;
+  text-decoration:  none;
+  font-family:      "Sans-serif",sans-serif;
+  text-align:       center;
+  border-radius:    5px;
+}
+
+/* Plates (links) */
+#nav a.four {
+  padding:          40px 3px 40px 3px;
+}
+#nav a.five {
+  padding:          31px 3px 30px 3px;
+}
+#nav a.seven {
+  padding:          12px 3px 12px 3px;
+}
+
+#nav img.bar {
+  display:          inline;
+}
+/* Left bar */
+#nav_ll {
+  width:            50px;
+  height:           15px;
+  position:         absolute;
+  top:              65px;
+}
+/* Left links */
+#nav_l {
+  display:          inline;
+  position:         absolute;
+  left:             53px;
+}
+/* Central image */
+#nav_c {
+  width:            424px;
+  height:           24px;
+  position:         absolute;
+  left:             140px;
+  top:              7px;
+}
+/* Right links */
+#nav_r {
+  position:         absolute;
+  left:             551px;
+}
+/* Right bar */
+#nav_rr {
+  position:         absolute;
+  left:             638px;
+  top:              65px;
+}
+
+#nav {
+  position:         relative;
+  left:             75px;
+  top:              5px;
+}
+
+#content {
+  padding:          200px 20px 50px 20px;
+}
+#content h2 {
+  height:           1.5em;
+  border-bottom:    1px solid #999;
+}
+#content h3 {
+  border-bottom:    1px solid #eee;
+}
+
+#squadPictures {
+  position:         relative;
+  width:            500px;
+  margin-left:      auto;
+  margin-right:     auto;
+}
+/* Paragraphs */
+p.reg{
+  text-decoration:  none;
+  font-family:      "Verdana",sans-serif;
+}
+/* links */
+a.reg{
+  text-decoration:  none;
+  color:            #005;
+  font-family:      "Verdana",sans-serif;
+}
+/* Images */
+a.media{
+  display:          block;
+  text-align:       center;
+  text-decoration:  none;
+  color:            #000;
+  font-family:      "Verdana",sans-serif;
+}
+img.media{
+  padding:          50px;
+}
+/* Forms */
+#form {
+  padding:          20px;
+}
+
+#form label {
+  font-weight:      bold;
+}
+
+#form input {
+  display:          block;
+  padding:          3px;
+  width:            300px;
+  border:           1px solid #000;
+  border-color:     #aaa #888 #888 #aaa;
+  border-radius:    5px;
+}
+
+#form textarea {
+  display:          block;
+  padding:          3px;
+  width:            300px;
+  border:           1px solid #000;
+  border-color:     #aaa #888 #888 #aaa;
+  border-radius:    5px;
+}
+
+#form button {
+  display:          block;
+  margin-top:       1px;
+  width:            100px;
+  margin-left:      100px;
+  padding:          3px;
+  text-align:       center;
+  color:            #000
+  background-color: #ddd; 
+  border:           1px solid #000;
+  border-color:     #aaa #444 #444 #aaa;
+  border-radius:    5px;
+}
+
+#content li {
+  font-family:      "Verdana",sans-serif;
+}
+
+#content ul.news-list{
+  list-style-type:  none;
+  font-family:      "Verdana",sans-serif;
+}
+/* Tables */
+#content td {
+  padding:          5px 13px;
+  font-family:      "Verdana",sans-serif;
+}
+#membertable td {
+  padding:          1px 15px;
+  font-family:      "Verdana",sans-serif;
+}
+#recordtable td {
+  padding:          1px 5px;
+  text-align:       right;
+  font-family:      "Verdana",sans-serif;
+}
+#mediatable td {
+  text-align:       center;
+}
+
+/* Hover over */
+#nav a:hover {
+  box-shadow:       0px 0px 3px #323;
+  background-color: #323;
+  color:            #ddf;
+}
+a:hover {
+  color:            #055;
+  text-decoration:  underline;
+}
+p:hover {
+  color:            #323;
+}
+li:hover {
+  color:            #323;
+}
+tr:hover {
+  color:            #323;
+  background-color: #eee;
+}
+#form button:hover {
+  box-shadow:       0px 0px 3px #323;
+  color:            #000;
+  background-color: #ccc;
+  border-radius:    5px;
+}

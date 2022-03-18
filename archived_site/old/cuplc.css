@@ -1,0 +1,23 @@
+A:link {font-weight:bold; color:black;text-decoration:none;}
+A:active {font-weight:bold;color:black;background-color:#FFFFCC;text-decoration:none;}
+A:hover {font-weight:bold;color:black;background-color:#FFFFCC;text-decoration:none;}
+A:visited {font-weight:bold;color:black;text-decoration:none;}
+.SubItem {margin-left:10px;font-size:10pt;}
+
+table.fullCell td { /* NOTE: no padding here! */ }
+table.fullCell td a { display:block; width:100px; padding:5px; }
+table.fullCell td a:link {font-weight:bold; color:black;text-decoration:none;}
+table.fullCell td a:visited {color:black;font-weight:bold;text-decoration:none;}
+table.fullCell td a:hover {color:black;font-weight:bold;background-color:#FFFFCC;text-decoration:none;}
+table.fullCell td a:active {color:black;font-weight:bold;text-decoration:none;} 
+
+.CellStyle {background-color: rgb(135,174,197); vertical-align: top;}
+.Main {color: black; background-color: rgb(210,231,244);}
+.Inset {background-color: rgb(135,174,197);
+width: 80%; 
+border: 1px solid black;
+padding: 4px;
+font-size: 10pt;}
+.Title{font-family: sans-serif;color: black;font-size: 30pt}
+H1 {font-family: sans-serif;color: black;}
+body {font-family: sans-serif; background-color: white; }
