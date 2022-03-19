@@ -10,7 +10,7 @@ header:
   caption: "Varsity 2020"
 
 ---
-<!-- TODO: put this where it belongs... -->
+<!-- TODO: put all grid instances where they belong... -->
 <!-- this grid is used for the docs and committee loop -->
 <style>
 
@@ -31,12 +31,6 @@ header:
 
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(max(var(--grid-item--min-width), var(--grid-item--max-width)), 1fr));
-  column-gap: 3em;
-}
-
-.grid-container_committeee {
-  display: grid;
-  grid-template-columns: grid-template-columns: repeat(auto-fit, minmax(max-content, 1fr));
   column-gap: 3em;
 }
 

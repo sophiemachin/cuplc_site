@@ -4,7 +4,6 @@ date: 2016-08-30
 author: Andrew Hodgeson
 tags:
   - Meets
-  - Meet Reports
 
 ---
 

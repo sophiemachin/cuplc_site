@@ -154,6 +154,7 @@ include:
   - .htaccess
   - _pages
   - _posts
+  - archived_site
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -215,8 +216,8 @@ sass:
 
 
 # Outputting
-permalink: /:categories/:title/
-paginate: 4 # amount of posts to show
+permalink: posts/:categories/:title/
+paginate: 0 # amount of posts to show
 paginate_path: posts/page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 

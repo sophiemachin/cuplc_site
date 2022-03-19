@@ -14,7 +14,7 @@ Men's Captain:
 
 Women's Captain:
   - name: "Beatrice Fishwick"
-    image_path: assets/images/headshots/raghul.png
+    image_path: assets/images/headshots/lion_logo.png
     email: bcf23@cam.ac.uk
     instagram: "https://www.instagram.com/beatricefishwick/"
 
@@ -38,13 +38,13 @@ Webmaster:
 
 Stash Officer:
   - name: "Stelios Sarantellis"
-    image_path: assets/images/headshots/raghul.png
+    image_path: assets/images/headshots/lion_logo.png
     email: ss2561@cam.ac.uk
     instagram:
 
 Social Media Officer:
   - name: "Laura Kirkpatrick"
-    image_path: assets/images/headshots/raghul.png
+    image_path: assets/images/headshots/lion_logo.png
     email:
     instagram: "https://www.instagram.com/laurasvegains/"
 
@@ -55,16 +55,16 @@ Welfare Officer:
     email: mep50@cam.ac.uk
     instagram: "https://www.instagram.com/morgan_phil_lifts"
   - name: "Molly Duxbury"
-    image_path: assets/images/headshots/raghul.png
+    image_path: assets/images/headshots/lion_logo.png
     email: md894@cam.ac.uk
     instagram: "https://www.instagram.com/dumbsocks_and_deadlifts2"
 
 Social Secretary:
   - name: "Thomas Clark"
-    image_path: assets/images/headshots/raghul.png
+    image_path: assets/images/headshots/lion_logo.png
     email: tjc74@cam.ac.uk
     instagram: ""
   - name: "Yuvraj Agarwal"
-    image_path: assets/images/headshots/raghul.png
+    image_path: assets/images/headshots/lion_logo.png
     email: ya312@cam.ac.uk
     instagram: "https://www.instagram.com/yuvrajtraining"
