@@ -28,7 +28,7 @@ technique:
 programming:
   - image_path: /assets/images/resources/program.png
     title: "Programming"
-    excerpt: "People usually start off with a 'cookie cutter' program, of which we recommend several good options we've tried ourselves. These however can't work forever, as one becomes a more intermediate lifter. We go on to outline the key training variables behind a good program, and how one could write and structure their own programs for more specific goals as they become more advanced. Also check out our pages on finding your [maximum recoverable volume](/resources/finding-your-mrv/) and [addressing weak points](/addressing-weak-points/)."
+    excerpt: "People usually start off with a 'cookie cutter' program, of which we recommend several good options we've tried ourselves. These however can't work forever, as one becomes a more intermediate lifter. We go on to outline the key training variables behind a good program, and how one could write and structure their own programs for more specific goals as they become more advanced. Also check out our pages on finding your [maximum recoverable volume](/resources/programming/finding-your-mrv/) and [addressing weak points](//resources/programming/addressing-weak-points/)."
     url: "/resources/programming/"
     btn_label: "Read More"
     btn_class: "btn--primary"
