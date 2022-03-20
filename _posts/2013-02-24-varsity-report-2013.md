@@ -14,7 +14,7 @@ header:
 ---
 # Powerlifting Varsity win for CUPLC
 ### Cambridge 2110.21- Oxford 2056.76
-{% assign image_path = site.url | append: "/" | append: site.baseurl | append: "/assets/images/varsity_2013" %}
+{% assign image_path = site.baseurl | append: "/assets/images/varsity_2013" %}
 <figure>
   <img src="{{ image_path }}/group.png">
 </figure>

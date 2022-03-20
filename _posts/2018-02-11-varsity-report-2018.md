@@ -8,24 +8,18 @@ tags:
   - Meet Reports
 
 header:
-  overlay_image: /assets/images/varsity_2019/group.jpg
-  teaser: /assets/images/varsity_2019/group.jpg
+  overlay_image: /assets/images/varsity_2018/group.webp
+  teaser: /assets/images/varsity_2018/group.webp
 
 gallery:
-  - image_path: /assets/images/varsity_2019/1.jpg
-  - image_path: /assets/images/varsity_2019/2.jpg
-  - image_path: /assets/images/varsity_2019/3.jpg
-  - image_path: /assets/images/varsity_2019/4.jpg
-  - image_path: /assets/images/varsity_2019/5.jpg
-  - image_path: /assets/images/varsity_2019/6.jpg
-  - image_path: /assets/images/varsity_2019/7.jpg
-  - image_path: /assets/images/varsity_2019/8.jpg
-  - image_path: /assets/images/varsity_2019/9.jpg
+  - image_path: /assets/images/varsity_2018/1.webp
+  - image_path: /assets/images/varsity_2018/2.webp
+
 
 ---
 # Powerlifting Varsity win for CUPLC
 
-{% assign image_path = site.url | append: "/" | append: site.baseurl | append: "/assets/images/varsity_2018" %}
+{% assign image_path = site.baseurl | append: "/assets/images/varsity_2018" %}
 
 ### Cambridge 2496.9 - Oxford 2330.4 [Results]({{image_path}}/varsity_results_2018.xlsx){: .btn .btn--primary .btn--large .align-right}
 

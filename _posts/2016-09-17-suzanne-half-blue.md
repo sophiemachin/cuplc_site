@@ -9,7 +9,7 @@ tags:
 ---
 # CUPLC lifters smash Junior Nationals, bringing back 2nd place in the Men's 83kg class
 
-{% assign image_path = site.url | append: "/" | append: site.baseurl | append: "/assets/images/suzanne_half_blue" %}
+{% assign image_path = site.baseurl | append: "/assets/images/suzanne_half_blue" %}
 
 <figure>
   <img src="{{ image_path }}/1.jpg">

@@ -15,7 +15,7 @@ header:
 ---
 # Varsity and University Championships Glory for CUPLC
 
-{% assign image_path = site.url | append: "/" | append: site.baseurl | append: "/assets/images/varsity_2016" %}
+{% assign image_path = site.baseurl | append: "/assets/images/varsity_2016" %}
 
 ### Cambridge 3315.8 - Oxford 3170.3 - Oxford 4636.2 [Results]({{image_path}}/results.png){: .btn .btn--primary .btn--large .align-right}
 

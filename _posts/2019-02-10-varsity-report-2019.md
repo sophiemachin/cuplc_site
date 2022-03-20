@@ -25,9 +25,9 @@ gallery:
 ---
 # Varsity Win for CUPLC for the 7th year running
 
-{% assign image_path = site.url | append: "/" | append: site.baseurl | append: "/assets/images/varsity_2019" %}
+{% assign image_path = site.baseurl | append: "/assets/images/varsity_2019" %}
 
-### Cambridge 3315.8 - Oxford 3170.3 - Oxford 4636.2 [Results]({{image_path}}/varsity_results_2019.xlsx){: .btn .btn--primary .btn--large .align-right}
+### Cambridge 3315.8 - Oxford 3170.3 [Results]({{image_path}}/varsity_results_2019.xlsx){: .btn .btn--primary .btn--large .align-right}
 
 &nbsp;
 
