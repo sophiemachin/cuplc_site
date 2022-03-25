@@ -1,5 +1,5 @@
 ---
-title: "Finding your MRV and Frequency"
+title: "Addressing Weak Points"
 date: 2019-07-01
 permalink: /resources/programming/addressing-weak-points/
 authors:
