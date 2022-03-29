@@ -53,7 +53,7 @@ equipment:
   - image_path: /assets/images/resources/equip.jpg
     title: "Equipment"
     excerpt: "The bar to entry is relatively low in powerlifting. You can start out with just a gym membership, and your usual gym clothes. As you progress, you'll probably want to acquire several bits of kit to help increase tightness and reduce energy leaks, ensuring your force is being transferred into the bar as effeicently as possible."
-    url: "/resources/recovery/"
+    url: "/resources/equipment/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 
