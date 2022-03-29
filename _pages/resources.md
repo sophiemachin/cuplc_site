@@ -78,4 +78,6 @@ competition-advice:
 
 {% include feature_row id="recovery" type="right" %}
 
-{% include feature_row id="competition-advice" type="left" %}
+{% include feature_row id="equipment" type="left" %}
+
+{% include feature_row id="competition-advice" type="right" %}
