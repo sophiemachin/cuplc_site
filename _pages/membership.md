@@ -27,7 +27,7 @@ If you'd like to get a feel for the club before joining, feel free to come and c
 
 To clarify, CUPLC membership does not include access to the University Sports Centre gym where a lot of us train together throughout the week. This is a separate gym membership. You don't need to have a University Sports Centre membership to come to the weekly Team Training sessions as they are paid for by CUPLC. 
 
-[Sign Up Here](https://forms.gle/4vjmT3swVDQbvQyV8  ){: .btn .btn--primary .btn--large .align-center}
+[Sign Up Here](https://docs.google.com/forms/d/e/1FAIpQLSdbVn9e9D9dMiWYn3_tWz8JXYhDRxds_AoWgAX8SFFPxpv-pw/viewform){: .btn .btn--primary .btn--large .align-center}
 
 
 Any questions regarding club membership should be directed towards the [club secretary](mailto: cuplc-secretary@srcf.net).
