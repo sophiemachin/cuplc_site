@@ -1,6 +1,6 @@
 ---
 title: "Rules for Club Records"
-permalink: \record-rules\
+permalink: /record-rules/
 date: 2020-02-08
 show_date: true
 layout: splash
