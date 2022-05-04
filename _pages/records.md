@@ -64,17 +64,9 @@ This section is for records made by alumni who were CUPLC members while they wer
 &nbsp;  
 
 
-
-
 ## Log
 
 A log of all new records, beginning March 2022.
 
-* 2022-04-02: New student M59kg bench record of 105.0kg (+2.5kg) by Santosh Guru at British University Championships
-* 2022-04-02: New student M59kg deadlift record of 210.0kg (+7.5kg) by Santosh Guru at British University Championships
-* 2022-04-02: New student M59kg total record of 467.5kg (+7.5kg) by Santosh Guru at British University Championships
-* 2022-04-02: New student F69kg squat record of 137.5kg (+2.5kg) by Amy Williams at British University Championships
-* 2022-04-02: New student F84kg squat record of 142.5kg (+142.5kg) by Lauren Domfe at British University Championships
-* 2022-04-02: New student F84kg bench record of 62.5kg (+62.5kg) by Lauren Domfe at British University Championships
-* 2022-04-02: New student F84kg deadlift record of 165.0kg (+165.0kg) by Lauren Domfe at British University Championships
-* 2022-04-02: New student F84kg total record of 370.0kg (+370.0kg) by Lauren Domfe at British University Championships
+<iframe width="100%" height="500" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTTQ_wtG2D0OT0cx0AE5FfdkNIYzoXpwr1smnB94svfxHoxF1TwLRq0beLtnIXgqA81T4VsR5anDcxU/pubhtml?single=true&gid=1080159208&range=a1:a100&widget=false&chrome=false"></iframe>
+
