@@ -37,7 +37,7 @@ header:
 }
 </style>
 
-Records are automatically generated from [OpenPowerlifting](www.openowerlifting.org) data and updated daily. If you think you can make it onto our records tables, please fill in the form at the first link below. Any issues, get in touch with our webmaster. 
+Records are generated automatically from [OpenPowerlifting](https://www.openpowerlifting.org/) data and updated daily. If you think you can make it onto our records tables, please fill in the form at the first link below. Any issues, get in touch with our webmaster. 
 {: .notice--info}
 
 <div class="grid-container_records">
