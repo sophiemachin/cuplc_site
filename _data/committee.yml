@@ -1,9 +1,14 @@
-President:
+Co-President:
   - name: "Samin MoghiamiAsl"
     image_path: assets/images/headshots/samin.JPG
     bio: "Samin started powerlifting in ...."
     email: ssm44@cam.ac.uk
     instagram: "https://www.instagram.com/samin_moghimiasl"
+  - name: "Remi Rufus-Toye"
+    image_path: assets/images/headshots/remi.png
+    email: "rmr45@cam.ac.uk"
+    instagram: "https://www.instagram.com/strength_and_fragility"
+
 
 Men's Captain:
   - name: "Raghul Parthipan"
@@ -13,58 +18,62 @@ Men's Captain:
     instagram: "https://www.instagram.com/theparthtopower"
 
 Women's Captain:
-  - name: "Beatrice Fishwick"
-    image_path: assets/images/logos/lion_logo.png
-    email: bcf23@cam.ac.uk
-    instagram: "https://www.instagram.com/beatricefishwick/"
-
-Secretary:
-  - name: "Essam Rama"
-    image_path: assets/images/headshots/essam.jpg
-    email: eir24@cam.ac.uk
-    instagram:
-
-Treasurer:
   - name: "Amy Williams"
     image_path: assets/images/headshots/amy.jpg
     email: alww2@cam.ac.uk
     instagram: "https://www.instagram.com/amylwilliams/?"
+
+Secretary:
+  - name: "Brandon Teh"
+    image_path: assets/images/headshots/brandon.jpg
+    email: bjht3@cam.ac.uk
+    instagram: https://www.instagram.com/teh_bran/
+
+Treasurer:
+  - name: Natalie Ho
+    image_path: assets/images/logos/lion_logo.png
+    email: nhyh2@cam.ac.uk
+    instagram: https://www.instagram.com/natalie_ho/
 
 Webmaster:
   - name: "Bilal Chughtai"
     image_path: assets/images/headshots/bilal.jpeg
     email: brchughtaii@gmail.com
     instagram: "https://www.instagram.com/beelalsgymdiaries"
+  - name: "Clement Fong"
+    image_path: assets/images/headshots/clement.jpg
+    email: hccf2@cam.ac.uk
+    instagram: "https://www.instagram.com/clementfhc"
 
 Stash Officer:
-  - name: "Stelios Sarantellis"
-    image_path: assets/images/logos/lion_logo.png
-    email: ss2561@cam.ac.uk
-    instagram:
+  - name: "Jane Ambler"
+    image_path: assets/images/headshots/jane.jpg
+    email: jpa50@cam.ac.uk
+    instagram: "https://www.instagram.com/janesgains/"
 
 Social Media Officer:
-  - name: "Laura Kirkpatrick"
+  - name: "Santosh Guru"
     image_path: assets/images/logos/lion_logo.png
-    email:
-    instagram: "https://www.instagram.com/laurasvegains/"
+    email: sg928@cam.ac.uk
+    instagram: "https://www.instagram.com/santoshlifts/"
 
 
 Welfare Officer:
-  - name: "Morgan Philips"
-    image_path: assets/images/headshots/morgan.jpg
-    email: mep50@cam.ac.uk
-    instagram: "https://www.instagram.com/morgan_phil_lifts"
-  - name: "Molly Duxbury"
-    image_path: assets/images/logos/lion_logo.png
-    email: md894@cam.ac.uk
-    instagram: "https://www.instagram.com/dumbsocks_and_deadlifts2"
+  - name: "Kieran Zheng"
+    image_path: assets/images/headshots/kieran.jpg
+    email: kz303@cam.ac.uk
+    instagram: "https://www.instagram.com/kieran.zheng/"
+  - name: "Megan Sermon"
+    image_path: assets/images/headshots/megan.jpg
+    email: ms2750@cam.ac.uk
+    instagram: "https://www.instagram.com/megains_katharina/"
+  - name: "Jane Ambler"
+    image_path: assets/images/headshots/jane.jpg
+    email: jpa50@cam.ac.uk
+    instagram: "https://www.instagram.com/janesgains/"
 
 Social Secretary:
-  - name: "Thomas Clark"
-    image_path: assets/images/logos/lion_logo.png
-    email: tjc74@cam.ac.uk
-    instagram: ""
-  - name: "Yuvraj Agarwal"
-    image_path: assets/images/logos/lion_logo.png
-    email: ya312@cam.ac.uk
-    instagram: "https://www.instagram.com/yuvrajtraining"
+  - name: "Megan Sermon"
+    image_path: assets/images/headshots/megan.jpg
+    email: ms2750@cam.ac.uk
+    instagram: "https://www.instagram.com/megains_katharina/"
