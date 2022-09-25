@@ -3,7 +3,15 @@ title: "Welcome to CUPLC"
 layout: splash
 permalink: /
 date: 2022-02-28
-excerpt: "CUPLC exists for two reasons. We firstly seek to be a community of people sharing a love of lifting. Our members comprise experienced international powerlifters holding national records to novice lifters just starting out. We also seek to encourage and facilitate members competing in the sport of powerlifting wherever possible, including against Oxford at our annual Varsity match."
+excerpt: "CUPLC exists for two reasons. We seek to be a community of people sharing a love of lifting. Our members comprise experienced international powerlifters holding national records to novice lifters just starting out on their strength journeys. We encourage and facilitate members competing in the sport of powerlifting wherever possible, including against Oxford at our annual Varsity match."
+
+freshers:
+  - image_path: /assets/images/logos/lion_with_text.png
+    title: "Join CUPLC this Academic Year"
+    excerpt: "Welcome to Cambridge. Whether you're a new member of the university or returning, there is no better time to join the university's strongest club and take your strength to the next level. Read more about our start of year plans and sign up to our mailing list at the link below."
+    url: "/posts/freshers-2022/"
+    btn_label: "Sign Up Now"
+    btn_class: "btn--primary"
 
 header:
   show_overlay_excerpt: true
@@ -67,6 +75,9 @@ committee:
     btn_class: "btn--primary"
 
 ---
+
+{% include feature_row id="freshers" type="right" %}
+
 # Recent Blog Posts [View More](/blog/){: .btn .btn--primary .btn--small .align-right}
 
 <div class="entries-grid">
@@ -76,6 +87,7 @@ committee:
 </div>
 
 {% include feature_row %}
+
 {% include gallery id="logo_gallery" layout="fourth bottomborder" %}
 
 {% include feature_row id="what_is_powerlifting" type="left" %}
