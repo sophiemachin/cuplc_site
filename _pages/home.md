@@ -8,7 +8,7 @@ excerpt: "CUPLC exists for two reasons. We seek to be a community of people shar
 freshers:
   - image_path: /assets/images/logos/lion_with_text.png
     title: "Join CUPLC this Academic Year"
-    excerpt: "Welcome to Cambridge. Whether you're a new member of the university or returning, there is no better time to join the university's strongest club and take your strength to the next level. Read more about our start of year plans and sign up to our mailing list at the link below."
+    excerpt: "Welcome to Cambridge. Whether you're a new member of the university or returning, there is no better time to join the university's strongest club and take your strength to the next level. Read more about our fresher's events and sign up to our mailing list or full club membership at the link below."
     url: "/posts/freshers-2022/"
     btn_label: "Sign Up Now"
     btn_class: "btn--primary"
