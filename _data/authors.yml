@@ -1,8 +1,14 @@
-Jane Ambler:
-  name       :  "Jane Ambler"
-  bio         : "CUPLC Stash Officer 2022-2023"
-  avatar      : "/assets/images/headshots/jane.jpg"
-  instagram   : "janesgains"
+Beatrice Fishwick:
+  name       :  "Beatrice Fishwick"
+  bio         : "Women's Captain 2021-2022"
+  avatar      : "/assets/images/headshots/bea.jpg"
+  instagram   : "beatricefishwick"
+
+Raghul Parthipan:
+  name       :  "Raghul Parthipan"
+  bio         : "Men's Captain 2022-2023 <br/> Men's Captain 2021-2022"
+  avatar      : "/assets/images/headshots/raghul.png"
+  instagram   : "theparthtopower"
 
 Clement Fong:
   name       :  "Clement Fong"
@@ -12,7 +18,7 @@ Clement Fong:
 
 Bilal Chughtai:
   name       :  "Bilal Chughtai"
-  bio         : "CUPLC Webmaster 2021-2022"
+  bio         : "CUPLC Webmaster 2022-2023 <br/> CUPLC Webmaster 2021-2022"
   avatar      : "/assets/images/headshots/bilal.jpeg"
 
 Essam Rama:
