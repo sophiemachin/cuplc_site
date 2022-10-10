@@ -28,5 +28,4 @@ To clarify, CUPLC membership does not include access to the University Sports Ce
 
 [Sign Up Here](https://docs.google.com/forms/d/e/1FAIpQLSfn5Xa_bRN-bouZDOg7JjoX6108xnugZodB8JMVkqS8F8cETQ/viewform){: .btn .btn--primary .btn--large .align-center}
 
-
 Any questions regarding club membership should be directed towards the [club secretary](mailto: bjht3@cam.ac.uk).
