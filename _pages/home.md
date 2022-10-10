@@ -59,7 +59,7 @@ training:
     excerpt: "Some members join just to be part of a friendly group of individuals who share a love of weight training, with no intention of ever competing. Some train to compete in Varsity, and some compete internationally. As such, there is no right way to train that suits all needs and abilities. Powerlifting is perfect for the busy Cambridge student looking to keep in shape, be part of a supportive team but not be tied into regimented training times. That said, any of us choose to train in the evenings at the University Sports Centre with others."
 
 competing:
-  - image_path: /assets/images/the-club/vik.jpg
+  - image_path: /assets/images/the-club/raghul.jpg
     title: "Competing"
     excerpt: "We are a very accessible club for those who wish to get stronger, even those with no aspirations to compete. Everyone is welcome. While there is no obligation to, we encourage our members to give competing a go. While initially intimidating, competing can be a very satisfying and fulfilling experience, and the club is here to support newcomers to the sport. Our informal internal competitions provide an excellent opportunity to give it a go."
     url: "/competitions/"
