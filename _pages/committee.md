@@ -6,7 +6,7 @@ date: 2022-02-28
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/home_cover.jpg
+  overlay_image: /assets/images/commitee_header.jpg
   caption: "Varsity 2020"
 
 ---
