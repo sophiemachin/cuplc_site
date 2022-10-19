@@ -7,7 +7,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/commitee_header.jpg
-  caption: "Varsity 2020"
+  caption: "Sports Fair 2022"
 
 ---
 <!-- TODO: put all grid instances where they belong... -->
