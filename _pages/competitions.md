@@ -50,33 +50,34 @@ For clause 3A in both statuses, this is rounded to the less difficult standard. 
 
 For clause 3B in both statuses, this is rounded to the more difficult standard. For example: If 22 competitors compete in the weight class, the standard of a top 2 finish is required for the Full Blue, and a top 6 finish for the Half Blue.
 
-For the 2021-2022 academic year, the standards in kg are therefore as follows:
+For the 2022-2023 academic year, the standards in kg are therefore as follows:
 
 ### Men's Blues Standard
 
 | Weight Class | Full Blue | Half Blue |
 |--------------|-----------|-----------|
-|          -59 |     488.5 |     442.5 |
-|          -66 |     522.5 |     492.5 |
-|          -74 |     542.5 |     507.5 |
-|          -83 |       615 |     537.5 |
-|          -93 |     652.5 |       590 |
-|         -105 |       680 |       615 |
-|         -120 |       715 |       660 |
-|         120+ |       770 |       700 |
+|          -59 |     507.5 |     445   |
+|          -66 |     515   |     500   |
+|          -74 |     590   |     527.5 |
+|          -83 |     622.5 |     555   |
+|          -93 |     665   |       600 |
+|         -105 |     707.5 |       645 |
+|         -120 |       770 |       700 |
+|         120+ |       690 |       690 |
 
 ### Women's Blues Standard
 
 | Weight Class | Full Blue | Half Blue |
 |--------------|-----------|-----------|
-|          -47 |     312.5 |       265 |
-|          -52 |     292.5 |       265 |
-|          -57 |       335 |       280 |
-|          -63 |       370 |     307.5 |
-|          -69 |     382.5 |       320 |
-|          -76 |     387.5 |       350 |
-|          -84 |       345 |     302.5 |
-|          84+ |       421 |       335 |
+|          -43 |     262.5 |     262.5 |
+|          -47 |     320   |       310 |
+|          -52 |     290   |     282.5 |
+|          -57 |       358 |       290 |
+|          -63 |     377.5 |     330   |
+|          -69 |     387.5 |      352.5|
+|          -76 |     402.5 |     362.5 |
+|          -84 |     387.5 |     370   |
+|          84+ |     432.5 |     382.5 |
 
 
 ## British University Championships

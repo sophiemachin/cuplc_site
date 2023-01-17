@@ -1,24 +1,27 @@
 ---
 title: "CUPLC at World University Powerlifting Cup 2022 (Part 1)"
-date: 2023-1-15
+date: 2022-11-10
 author: Clement Fong
 tags:
   - Meets
   - Meet Reports
 
 header:
-  overlay_image: /assets/images/uni_worlds_2022/2.jpg
-  teaser: /assets/images/uni_worlds_2022/2.jpg
+  overlay_image: /assets/images/uni_worlds_2022/3.jpg
+  teaser: /assets/images/uni_worlds_2022/3.jpg
   caption: "World University Powerlifting Cup 2022"
 
 gallery:
   - image_path: /assets/images/uni_worlds_2022/1.jpg
   - image_path: /assets/images/uni_worlds_2022/2.jpg
+  - image_path: /assets/images/uni_worlds_2022/6.jpg
   - image_path: /assets/images/uni_worlds_2022/3.jpg
+  - image_path: /assets/images/uni_worlds_2022/4.jpg
+  - image_path: /assets/images/uni_worlds_2022/5.jpg
 
 ---
 
-# 5th for Brandon Teh at World University Powerlifting Cup 2022
+# 5th for Brandon at World University Powerlifting Cup 2022
 
 ### 607.5kg Total at 68.6kg (U74)
 
@@ -40,15 +43,11 @@ The highlight must have been seeing Gaston (IPF president) dancing with all of u
 ##### Any final thoughts?
 I wouldn’t have been able to compete at this stage without the love and support of everyone in CUPLC, and I am so thankful that I decided to become a part of this club last year. A special shoutout to Suzanne for lending me her team GB tracksuit (which I shall hopefully remember to return sooner or later). I hope to do well in the upcoming competitions to compete internationally again this year and fly CUPLC’s flag high!
 
-
 &nbsp;
 
-
  
-
 
 {% include gallery %}
 
 ![image-right]({{ image_path }}/result_summary.png){: .align-right}
-
 
