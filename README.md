@@ -1,6 +1,6 @@
 # Development
 
-To get started with modifying the CUPLC website one needs to first install a frew prerequisites. 
+To get started with modifying the CUPLC website one needs to first install a few prerequisites. 
 
 ## Prerequisites
 * Operating System: I'd recommend using Linux or macOS. If you're a windows user, I would not recommend developing in windows directly. [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/about) is great (and what I use). The instructions following will be for Ubuntu (Linux native/WSL), though parallels will exist for other linux distributions and for macOS
