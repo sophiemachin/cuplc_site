@@ -3,6 +3,7 @@
 To get started with modifying the CUPLC website one needs to first install a few prerequisites. 
 
 ## Prerequisites
+
 * Operating System: I'd recommend using Linux or macOS. If you're a windows user, I would not recommend developing in windows directly. [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/about) is great (and what I use). The instructions following will be for Ubuntu (Linux native/WSL), though parallels will exist for other linux distributions and for macOS
 * An editor such as [VSCode](https://code.visualstudio.com/). Also install the [remote development extension pack](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack). 
 * Ruby and other prerequisite can be installed fairly easily via a package manager. On Ubuntu, first run `sudo apt update` to update system repositories, and then `sudo apt-get install ruby-full build-essential zlib1g-dev`. Follow instructions [here](https://jekyllrb.com/docs/installation/) for other operating systems. 
