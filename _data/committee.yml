@@ -1,49 +1,36 @@
-Co-President:
-  - name: "Samin MoghiamiAsl"
-    image_path: assets/images/headshots/samin.JPG
-    bio: "Samin started powerlifting in ...."
-    email: ssm44@cam.ac.uk
-    instagram: "https://www.instagram.com/samin_moghimiasl"
-  - name: "Remi Rufus-Toye"
-    image_path: assets/images/headshots/remi.png
-    email: "rmr45@cam.ac.uk"
-    instagram: "https://www.instagram.com/strength_and_fragility"
-
+President:
+  - name: "Santosh Guru"
+    image_path: assets/images/headshots/santosh.jpg
+    email: sg928@cam.ac.uk
+    instagram: "https://www.instagram.com/santoshlifts/"
 
 Men's Captain:
-  - name: "Raghul Parthipan"
-    image_path: assets/images/headshots/raghul.jpg
-    bio: "Raghul started powerlifting in ...."
-    email: rp542@cam.ac.uk
-    instagram: "https://www.instagram.com/theparthtopower"
-
-Women's Captain:
-  - name: "Amy Williams"
-    image_path: assets/images/headshots/amy.jpg
-    email: alww2@cam.ac.uk
-    instagram: "https://www.instagram.com/amylwilliams/?"
-
-Secretary:
   - name: "Brandon Teh"
     image_path: assets/images/headshots/brandon.jpg
+    # bio: "Raghul started powerlifting in ...."
     email: bjht3@cam.ac.uk
     instagram: https://www.instagram.com/teh_bran/
 
+Women's Captain:
+  - name: "Rachel Knight"
+    email: rck34@cam.ac.uk
+    image_path: assets/images/headshots/rachel.jpg
+
+Secretary:
+  - name: "Charlie Cambridge"
+    email: cc2080@cam.ac.uk
+    image_path: assets/images/headshots/charlie.jpg
+
 Treasurer:
-  - name: Natalie Ho
-    image_path: assets/images/headshots/natalie.jpeg
-    email: nhyh2@cam.ac.uk
-    instagram: https://www.instagram.com/natalie_ho/
+  - name: "Shubang Nagalotimath"
+    email: sn587@cam.ac.uk
 
 Webmaster:
-  - name: "Bilal Chughtai"
-    image_path: assets/images/headshots/bilal.jpeg
-    email: brchughtaii@gmail.com
-    instagram: "https://www.instagram.com/beelalsgymdiaries"
-  - name: "Clement Fong"
-    image_path: assets/images/headshots/clement.jpg
-    email: hccf2@cam.ac.uk
-    instagram: "https://www.instagram.com/clementfhc"
+  - name: "Sophie Machin"
+    email: sem86@cam.ac.uk
+  - name: "Mani Ipchi"
+    email: mi377@cam.ac.uk
+    image_path: assets/images/headshots/mani.jpg
 
 Stash Officer:
   - name: "Jane Ambler"
@@ -52,28 +39,19 @@ Stash Officer:
     instagram: "https://www.instagram.com/janesgains/"
 
 Social Media Officer:
-  - name: "Santosh Guru"
-    image_path: assets/images/headshots/santosh.jpg
-    email: sg928@cam.ac.uk
-    instagram: "https://www.instagram.com/santoshlifts/"
+  - name: "Ada Adamczyk"
+    email: ama203@cam.ac.uk
 
 
-Welfare Officer:
-  - name: "Kieran Zheng"
-    image_path: assets/images/headshots/kieran.jpg
-    email: kz303@cam.ac.uk
-    instagram: "https://www.instagram.com/kieran.zheng/"
-  - name: "Megan Sermon"
-    image_path: assets/images/headshots/megan.jpg
-    email: ms2750@cam.ac.uk
-    instagram: "https://www.instagram.com/megains_katharina/"
-  - name: "Jane Ambler"
-    image_path: assets/images/headshots/jane.jpg
-    email: jpa50@cam.ac.uk
-    instagram: "https://www.instagram.com/janesgains/"
+
+Male Welfare Officer:
+  - name: "Oguzhan Yuksel"
+    email: aoy21@cam.ac.uk
+    
+Female & Non-Binary Welfare Officer:
+  - name: "Emma Onah"
+    email: eo364@cam.ac.uk
 
 Social Secretary:
-  - name: "Megan Sermon"
-    image_path: assets/images/headshots/megan.jpg
-    email: ms2750@cam.ac.uk
-    instagram: "https://www.instagram.com/megains_katharina/"
+  - name: "Arthur Pilkington"
+    email: ap2338@cam.ac.uk
