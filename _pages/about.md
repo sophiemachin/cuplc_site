@@ -1,0 +1,13 @@
+---
+title: About
+layout: collection-wide
+permalink: /about/
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/varsity_2020_group.jpg
+  caption: "Varsity 2020"
+
+---
+
+This is a page about us. 

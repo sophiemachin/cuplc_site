@@ -1,5 +1,5 @@
 ---
-title: "Welcome to CUPLC"
+title: "Welcome to Cambridge University Powerlifting!"
 layout: splash
 permalink: /
 date: 2022-02-28
