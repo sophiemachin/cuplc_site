@@ -1,5 +1,5 @@
 ---
-title: "Welcome to CUPLC"
+title: "Welcome to Cambridge University Powerlifting!"
 layout: splash
 permalink: /
 date: 2022-02-28
@@ -9,7 +9,7 @@ freshers:
   - image_path: /assets/images/logos/lion_with_text.png
     title: "Join CUPLC this Academic Year"
     excerpt: "Welcome to Cambridge. Whether you're a new member of the university or returning, there is no better time to join the university's strongest club and take your strength to the next level. Read more about our fresher's events and sign up to our mailing list or full club membership at the link below."
-    url: "/posts/freshers-2022/"
+    url: "/posts/freshers-2023/"
     btn_label: "Sign Up Now"
     btn_class: "btn--primary"
 
