@@ -47,7 +47,7 @@ Here are some provisional dates for your diary
 | Event               | Date          | Time   | Location                      |
 |---------------------|---------------|--------|-------------------------------|
 | Sports Fair         | 5 October     | 12 - 5 | University Sports Centre Hall | 
-| Freshers Fair       | 6 & 7 October | 10 - 4 | Parkers Piece                 |
+| Freshers' Fair      | 6 & 7 October | 10 - 4 | Parkers Piece                 |
 | Open taster         | 10 October    | 4 - 6  | University Sports Centre TTR  |
 | Women and NB taster | October       | 4 - 6  | University Sports Centre TTR  |
 | Open taster         | October       | 4 - 6  | University Sports Centre TTR  |
