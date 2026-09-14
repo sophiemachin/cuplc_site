@@ -31,7 +31,6 @@ Women’s and NB Welfare:
   - name: "Issy Dowling"
     image_path: assets/images/headshots/issy.jpg
 
-
 Men's and NB Welfare Officer:
   - name: "Nikita Mozgunov"
     image_path: assets/images/headshots/nikita.jpg
@@ -40,3 +39,10 @@ Men's and NB Welfare Officer:
 
 Social Secretary:
   - name: "Ethan Lim"
+
+Safety Officer:
+  - name: "Ameerah Saliu"
+
+Alumni Officer:
+  - name: "Emma Cohen"
+    image_path: assets/images/headshots/emma.jpg
