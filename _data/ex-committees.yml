@@ -1,3 +1,56 @@
+
+2025-2026:
+  President:
+    - name: "Shubang Nagalotimath"
+      email: sn587@cam.ac.uk
+      image_path: assets/images/headshots/shubang_24.jpeg
+      instagram: "https://www.instagram.com/Shubang.Naga/"
+
+  Men's Captain:
+    - name: "Isaac Wong"
+      image_path: assets/images/headshots/isaac.jpg
+
+  Women's Captain:
+    - name: "Jenny Lin"
+      image_path: assets/images/headshots/jenny.jpg
+
+  Secretary:
+    - name: "Emma Cohen"
+
+  Treasurer:
+    - name: "Sammy Breingan"
+
+  Webmaster:
+    - name: "Sophie May"
+      image_path: assets/images/headshots/sophie.jpg
+
+  Stash Officer:
+    - name: "Viola Clark"
+
+  Social Media Secretary:
+    - name: "Rozana Mazlumian"
+      image_path: assets/images/headshots/roz.jpg
+
+  Women’s and NB Welfare:
+    - name: "Liz Stevenson"
+      image_path: assets/images/headshots/liz.jpeg
+      email: efs29@cam.ac.uk
+
+  Male Welfare Officer:
+    - name: "Nikita Mozgunov"
+      image_path: assets/images/headshots/nikita.jpg
+      email: mozgunov.n@gmail.com
+      instagram: "https://www.instagram.com/nikotinz"
+
+  Social Secretary:
+    - name: "Felipe Westen"
+      image_path: assets/images/headshots/filipe.jpg
+
+  Assistant Social Secretary:
+    - name: "Craig Lobo"
+      image_path: assets/images/headshots/craig.jpg
+
+
 2024-2025:
   President:
     - name: "Shubang Nagalotimath"
