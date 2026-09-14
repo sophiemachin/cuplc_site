@@ -16,11 +16,11 @@ Want to be part of the **strongest** club in Cambridge?  Look no further.
 
 Come join us for an afternoon taster session in Michaelmas where we introduce the three lifts and let you have a go.
 
-[Come to a Taster Session](https://forms.gle/LEPiSHFcdricQZeA6){: .btn .btn--primary .btn--large .align-center}
+[Come to a Taster Session](https://forms.gle/LEPiSHFcdricQZeA6){: .btn .btn--primary .btn--large }
 
 Love powerlifting? Sign up for membership!
 
-[Sign Up for Membership](https://forms.gle/EEwSe74k1zdzBEQZ8){: .btn .btn--primary .btn--large .align-center}
+[Sign Up for Membership](https://forms.gle/EEwSe74k1zdzBEQZ8){: .btn .btn--primary .btn--large }
 
 Alternatively, feel free to come and chat to us at the University Sports Centre gym. There's usually a good group of us training there most evenings - we should be hard to miss! 
 
@@ -40,19 +40,20 @@ Membership offers access to the following perks:
 9. Stash 
 
 
-## Events for 2025-26
+## Events for 2026-27
 
-| Event               | Date          | Time   | Location                              |
-|---------------------|---------------|--------|---------------------------------------|
-| Sports Fair         | 6 October     | 12 - 5 | University Sports Centre Hall and TTR | 
-| Freshers Fair       | 7 & 8 October | 10 - 4 | Parkers Piece                         |
-| Open taster         | 11 October    | 4 - 6  | University Sports Centre TTR          |
-| Freshers brunch     | 12 October    | 12:30  | Robinson                              |
-| Women and NB taster | 18 October    | 4 - 6  | University Sports Centre TTR          |
-| Open taster         | 25 October    | 4 - 6  | University Sports Centre TTR          |
-| Novice Comp         | 1 November    | 12 - 5 | University Sports Centre TTR          |
-| Varsity Trials      | 6 December    | 8 - 5  | University Sports Centre TTR          |
-| Varsity Match       | 7 February    | 8 - 5  | University Sports Centre Hall         |
+Here are some provisional dates for your diary
+
+| Event               | Date          | Time   | Location                      |
+|---------------------|---------------|--------|-------------------------------|
+| Sports Fair         | 5 October     | 12 - 5 | University Sports Centre Hall | 
+| Freshers Fair       | 6 & 7 October | 10 - 4 | Parkers Piece                 |
+| Open taster         | 10 October    | 4 - 6  | University Sports Centre TTR  |
+| Women and NB taster | October       | 4 - 6  | University Sports Centre TTR  |
+| Open taster         | October       | 4 - 6  | University Sports Centre TTR  |
+| Novice Comp         | Oct/Nov       | 12 - 5 | University Sports Centre TTR  |
+| Varsity Trials      | December      | 8 - 5  | University Sports Centre TTR  |
+| Varsity Match       | February      | 8 - 5  | University Sports Centre Hall |
 
 
 ## Sports centre location
