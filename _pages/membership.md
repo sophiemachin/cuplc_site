@@ -44,20 +44,29 @@ Membership offers access to the following perks:
 
 Here are some provisional dates for your diary
 
-| Event               | Date          | Time   | Location                      |
-|---------------------|---------------|--------|-------------------------------|
-| Sports Fair         | 5 October     | 12 - 5 | University Sports Centre Hall | 
-| Freshers' Fair      | 6 & 7 October | 10 - 4 | Parkers Piece                 |
-| Open taster         | 10 October    | 4 - 6  | University Sports Centre TTR  |
-| Women and NB taster | October       | 4 - 6  | University Sports Centre TTR  |
-| Open taster         | October       | 4 - 6  | University Sports Centre TTR  |
-| Novice Comp         | Oct/Nov       | 12 - 5 | University Sports Centre TTR  |
-| Varsity Trials      | December      | 8 - 5  | University Sports Centre TTR  |
-| Varsity Match       | February      | 8 - 5  | University Sports Centre Hall |
+| Event               | Date          | Time    | Location                      |
+|---------------------|---------------|---------|-------------------------------|
+| Sports Fair         | 5 October     | 12 - 5  | University Sports Centre Hall | 
+| Freshers' Fair      | 6 & 7 October | 10 - 4  | Parkers Piece                 |
+| General taster      | 10 October    | 4 - 6   | University Sports Centre TTR  |
+| Women and NB taster | 17 October    | 4 - 6   | University Sports Centre TTR  |
+| SBD taster          | 24 October    | 4 - 6   | University Sports Centre TTR  |
+| Novice Comp         | 7 November    | 12 - 5  | University Sports Centre TTR  |
+| Halloween social    | 7 November    | evening | TBD                           |
+| Varsity Trials      | December      | 8 - 5   | University Sports Centre TTR  |
+| Varsity Match       | February      | 8 - 5   | Oxford                        |
 
+## TTR sessions
+
+Every Saturday of Michaelmas term there will be a team training session in the TTR.
+We have several structured sessions on the dates listed below. Everyone is welcome
+at the first three taster sessions. From the 31st October, sessions will be for
+paid up CUPLC members only. All training sessions take place on Saturday each
+week, from 4pm - 5:55pm in the team training room.
 
 ## Sports centre location
 
+The TTR is located on the first floor of the Sports Centre. 
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2444.840313691617!2d0.08627611296771814!3d52.20995025962442!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47d8774861d9ffdf%3A0xb73d0c1fc075bba2!2sSports%20Centre%20and%20Gym%2C%20University%20of%20Cambridge!5e0!3m2!1sen!2suk!4v1759843454593!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
