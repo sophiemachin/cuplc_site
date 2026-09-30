@@ -22,7 +22,11 @@ Love powerlifting? Sign up for membership!
 
 [Sign Up for Membership](https://forms.gle/EEwSe74k1zdzBEQZ8){: .btn .btn--primary .btn--large }
 
-Alternatively, feel free to come and chat to us at the University Sports Centre gym. There's usually a good group of us training there most evenings - we should be hard to miss! 
+Please also sign up for personal accident insurance
+
+[Personal accident insurance](https://forms.gle/Hh3S5sdswtsTH7qu9){: .btn .btn--primary .btn--large }
+
+Feel free to come and chat to us at the University Sports Centre gym. There's usually a good group of us training there most evenings - we should be hard to miss! 
 
 
 ## Benefits
